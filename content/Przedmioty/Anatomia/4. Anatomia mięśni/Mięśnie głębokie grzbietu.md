@@ -38,6 +38,10 @@ Innym podziałem jest podział na:
 - mięśnie podpotyliczne
 ## Mięśnie długie grzbietu
 
+
+
+![[miesien platowaty glowy i szyi.png]]
+
 ### 1. Mięsień płatowaty głowy
 - **Funkcja**: działając obustronnie, zgina głowę do tyłu, a działając jednostronnie obraca twarz
 - **PP (Przyczep początkowy)**: więzadło karkowe, wyrostki kolczyste I i II kręgu piersiowego
@@ -53,32 +57,48 @@ Innym podziałem jest podział na:
 - **Funkcja**: współdziałają w ruchach prostowania, przechylania do bocznego i obracania kręgosłupa
 - **PP**: wyrostki poprzeczne od VII kręgu szyjnego do XI kręgu piersiowego
 - **PK**: powierzchnia żeber
+
+![[miesnie dzwigacze zeber.png]]
 ## Mięśnie podpotyliczne
 
 ### 1. Mięsień skośny górny głowy
 - **Budowa**: stanowi przypuszczalnie najwyższy tylny mięsień między poprzeczny szyi
 - **PP**: wyrostek poprzeczny kręgu szyjnego
 - **PK**: kresa karkowa dolna
+![[glowa miesien skosny gorny.png]]
+
+![[glowa - miesien skosny gora 2.png]]
 
 ### 2. Mięsień prosty tylny mniejszy głowy
 - **Budowa**: mały i płaski mięsień o trójkątnym kształcie
 - **PP**: guzek tylny kręgu szyjnego
 - **PK**: przyśrodkowa kresa karkowa dolna kości potylicznej
+![[glowa miesien prosty tylny mniejszy.png]]
+
+![[glowa - miesien prosty tylny mniejszy 2.png]]
+
 
 ### 3. Mięsień prosty tylny większy głowy
 - **Budowa**: płaski mięsień leżący bezpośrednio na kręgach
 - **PP**: wyrostek kolczysty kręgu obrotowego
 - **PK**: kresa karkowa dolna
 
+![[glowa miesien prosty tylny wiekszy.png]]
+
+![[glowa miesien prosty tylny wiekszy 2.png]]
+
 ### 4. Mięsień skośny dolny głowy
 - **Funkcja**: silny mięsień obrotowy
 - **PP**: wyrostek kolczysty kręgu obrotowego
 - **PK**: wyrostek poprzeczny kręgu szczytowego
+![[glowa miesien skosny dolny.png]]
 
 ### 5. Mięsień prosty boczny głowy
 - **Funkcja**: pociąga głowę ku tyłowi i obraca twarz do boku
 - **PP**: wyrostek poprzeczny kręgu szczytowego
 - **PK**: wyrostek szyjny kości potylicznej
+
+![[glowa miesien prosty boczny.png]]
 
 ---
 
