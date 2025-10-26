@@ -1,3 +1,15 @@
+# Mięśnie klatki piersiowej i szyi
+
+**Zawartość:**
+- Mięśnie klatki piersiowej (piersiowy większy, mniejszy, podobojczykowy)
+- Mięsień zębaty przedni
+- Przepona
+- Mięsień mostkowo-obojczykowo-sutkowy (MOS)
+
+---
+
+## Mięśnie klatki piersiowej
+
 1. piersiowy wiekszy
 2. piersiowy mniejszy
 3. podobojczykowy
@@ -70,6 +82,8 @@ Przez przeponę przechodzą: aorta, przełyk, żyła główna dolna.
 
 ![[przepona 1.png]]
 ![[przepona 2.png]]
+
+## Mięśnie szyi
 
 # Mięsień mostkowo-obojczykowo-sutkowy (MOS)
 

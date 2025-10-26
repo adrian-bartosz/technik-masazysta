@@ -1,3 +1,13 @@
+# Mięśnie powierzchowne grzbietu
+
+**Zawartość:**
+- Mięsień czworoboczny (trapezius)
+- Mięsień najszerszy grzbietu
+- Mięśnie łopatki (równoległoboczny, dźwigacz)
+- Mięśnie zębate tylne (górny i dolny)
+
+---
+
 **Miesnie powierzchowne vs. głębokie**
 
 **Powierzchowne:**

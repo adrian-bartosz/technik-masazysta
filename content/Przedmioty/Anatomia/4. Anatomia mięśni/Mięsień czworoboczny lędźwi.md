@@ -1,5 +1,7 @@
 # Mięsień czworoboczny lędźwi
 
+**Lokalizacja:** Mięśnie tułowia - okolica lędźwiowa
+
 Mięsień czworoboczny lędźwi - jego nazwa wskazuje, kształtem przypomina czworobok.
 
 ## Lokalizacja
