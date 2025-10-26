@@ -13,6 +13,9 @@
 
 Są właściwymi mięśniami grzbietu, które przebiegają od kości krzyżowej do potylicy, między wyrostkami kolczystymi kręgów a kątami żeber. Dla tej grupy mięśni stosuje się nazwę **prostowniki grzbietu**. Włókna mają różny przebieg i miejsce przyczepu.
 
+https://www.e-figura.pl/mocne-plecy-jakie-miesnie-plecow-trzymaja-cie-w-pionie/
+
+![[prostowniki grzbietu.png]]
 ### Rodzaje prostowników grzbietu
 
 - **Kolcowo-poprzeczne**
@@ -106,11 +109,14 @@ Innym podziałem jest podział na:
 
 Mięsień czworoboczny lędźwi - jego nazwa wskazuje, kształtem przypomina czworobok.
 
+![[miesien czworoboczny ledzwi.png]]
 ### Lokalizacja
 Znajduje się po obu stronach kręgosłupa lędźwiowego, łącząc się z:
 - XII żebrem
 - grzebieniem kości biodrowej  
 - wyrostkami poprzecznymi kręgów lędźwiowych
+
+![[miesien czworoboczny ledzwi 2.png]]
 
 ### Budowa
 Składa się z dwóch warstw włókien (przedniej i tylnej), które krzyżują się wzajemnie, zapewniając większą stabilność i siłę.
