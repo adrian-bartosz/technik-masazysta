@@ -50,14 +50,21 @@ PPiK - przyśrodkowa część główki drugiej kości śródręcza, boczna czę�
 
 Pomiaru dokonuje się po stronie grzbietowej. 
 
-Uwagi:
-- Użyto poprawnych polskich znaków diakrytycznych oraz ujednolicono formatowanie tekstu dla lepszej czytelności.
-- Dokonano drobnych poprawek interpunkcyjnych oraz stylistycznych dla spójności tekstu.
+## Kończyna dolna
 
+### Długość względna
+- **Pozycja wyjściowa (PW):** stojąca lub siedząca
+- **Punkty pomiaru i kontrolne (PPiK):** kolec biodrowy przedni górny - kostka przyśrodkowa goleni
+- Ważne jest, aby kończyna dolna podczas pomiaru znajdowała się w pozycji pośredniej pomiędzy rotacją zewnętrzną a wewnętrzną.
 
-## Konczyna dolna
+### Długość bezwzględna
+- **Pozycja wyjściowa (PW):** stojąca lub leżenie tyłem
+- **Punkty pomiaru i kontrolne (PPiK):** więzadło krętarza większego kości udowej - kostka boczna goleni
+- Krętarz większy należy zlokalizować poprzez ruch rotacyjny stawu biodrowego lub w czasie jego odwodzenia. Należy znaleźć punkt na krętarzu większym, który jest najbardziej wyczuwalny do głowowo.
 
-Dlugosc wzgledna:
-- PW - stojaca lub siedzaca
-- PPiK - kolec biodrowy przedni gorny - kostka przysrodkowa goleni
-nalezy zwrocic uwage na to aby konczyna dolna podczas pomiaru znajdowala sie w pozycji posredniej pomiedzy rotacja zewnetrzna a wewnetrza 
+### Długość absolutna
+- **Pozycja wyjściowa (PW):** siedząca lub leżenie tyłem
+- **Punkty pomiaru i kontrolne (PPiK):** krętarz większy kości udowej - zewnętrzna krawędź stopy na wysokości kostki bocznej
+- Stopa powinna być ustawiona w pozycji anatomicznej. W przypadku amputacji pomiaru dokonuje się do punktu znajdującego się najdalej obwodowo. 
+
+Ważne jest, aby wszystkie pomiary były przeprowadzane precyzyjnie i starannie, uwzględniając anatomiczne punkty orientacyjne oraz odpowiednie pozycje ciała, co zapewni dokładność wyników.
