@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Technik masazysta
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hej, najlepiej bedzie jak bedziecie nawigowac sie panelem po lewej stronie. Stronki sa ze soba powiazane, wiec z jednej mozecie przechodzic do innych. 
