@@ -1,0 +1,3 @@
+- [[Kręgozmyk]]
+- [[Lumbago]]
+- [[Pleurodynia]]

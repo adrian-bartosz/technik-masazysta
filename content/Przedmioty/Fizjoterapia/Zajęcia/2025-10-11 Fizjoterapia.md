@@ -1,0 +1,1 @@
+1. Pracowalismy z goniometrem na stawie lokciowym, nagdarstkowym(?) i paliczkowym. Spojrz na [[Test Lovetta 2.pdf]] lub [[Test Lovetta 1.pdf]]

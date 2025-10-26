@@ -1,0 +1,1 @@
+To przerwanie łuku w miejscu  tzw. węziny lecz nie dochodzi do przemieszczenia kręgów. Często jest to wstęp do rozwoju kręgozmuku. Spondyliliza jest często bezobjawowa, ale te może dawać dolegliwości bólowe. 

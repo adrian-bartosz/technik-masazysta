@@ -1,0 +1,1 @@
+Zawiera 4-5 małych zrośniętych kręgów tworzących kość ogonową.

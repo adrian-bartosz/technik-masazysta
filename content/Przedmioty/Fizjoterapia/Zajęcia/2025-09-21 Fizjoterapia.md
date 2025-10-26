@@ -1,0 +1,1 @@
+[[Sposób zapisywania ruchów SFTR]]

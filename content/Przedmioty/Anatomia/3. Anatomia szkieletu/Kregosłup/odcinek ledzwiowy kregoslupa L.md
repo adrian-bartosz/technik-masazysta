@@ -1,0 +1,1 @@
+Zawiera 5 masywnych kręgów (L1-L5), które są zaprojektowane do wytrzymywania większych obciążeń.
