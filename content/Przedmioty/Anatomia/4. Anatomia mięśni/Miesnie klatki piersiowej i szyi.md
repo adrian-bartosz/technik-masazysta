@@ -1,12 +1,3 @@
-# Mięśnie klatki piersiowej i szyi
-
-**Zawartość:**
-- Mięśnie klatki piersiowej (piersiowy większy, mniejszy, podobojczykowy)
-- Mięsień zębaty przedni
-- Przepona
-- Mięsień mostkowo-obojczykowo-sutkowy (MOS)
-
----
 
 ## Mięśnie klatki piersiowej
 
