@@ -1,13 +1,3 @@
-# Mięśnie głębokie grzbietu
-
-**Zawartość:**
-- Prostowniki grzbietu
-- Mięśnie płatowate (głowy i szyi)
-- Mięśnie podpotyliczne
-- Mięśnie dźwigacze żeber
-- Mięsień czworoboczny lędźwi
-
----
 
 ## Prostowniki grzbietu
 
