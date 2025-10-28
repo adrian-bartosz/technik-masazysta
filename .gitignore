@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.smart-env
+inne/
+inne2/
+inne3/
