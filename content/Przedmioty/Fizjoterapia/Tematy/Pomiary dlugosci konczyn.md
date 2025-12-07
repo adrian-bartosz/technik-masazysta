@@ -1,70 +1,246 @@
-Cel: Ocena proporcji kończyn względem siebie. Do pomiaru długości kończyn używamy taśmy mierniczej. Zawsze porównujemy obie strony, zaczynając od zdrowej.
+# **🦴**  **Pomiary długości kończyn**
 
-Rodzaje długości:
-1. Długość względna - długość wraz ze stawem biodrowym lub barkowym.
-2. Długość bezwzględna - długość poszczególnych odcinków z wyłączeniem stawu ramiennego i dłoni, stawu biodrowego i skokowego.
-3. Długość absolutna (anatomiczna) - pomiar całkowitej długości kończyny.
-4. Długość odcinkowa (relatywna).
+## **🎯**  **Cel pomiaru**
 
-## Kończyna górna
-Długość ręki bez uwzględnienia dłoni - od stawu ramiennego do nadgarstkowego, bez uwzględniania dłoni.
+Ocena **proporcji kończyn względem siebie**.
 
-Pozycja wyjściowa (PW) - stojąca lub siedząca.
-Punkt początkowy i końcowy (PPiK) - wyrostek barkowy łopatki, wyrostek rylcowaty kości promieniowej.
+Do pomiarów używamy **taśmy mierniczej**.
 
-Wyrostek barkowy najłatwiej znaleźć, przesuwając opuszki palców po grzebieniu łopatki w kierunku bocznym.
+Zawsze porównujemy **obie strony**, zaczynając od **strony zdrowej**.
 
-## Długość bezwzględna
+---
 
-PW - siedząca lub stojąca.
-PPiK - guzek większy kości ramiennej, wyrostek rylcowaty kości promieniowej.
+# **🧮**  **Rodzaje długości**
 
-Guzek większy najlepiej znaleźć przez ruchy rotacyjne stawu ramiennego lub podczas jego odwodzenia. Na guzku większym należy znaleźć punkt wyczuwalny najbardziej dogłowowo.
+1. **Długość względna**
+    
+    - długość mierzona **wraz ze stawem biodrowym lub barkowym**
+        
+    
+2. **Długość bezwzględna**
+    
+    - długość poszczególnych odcinków **bez uwzględnienia stawu ramiennego i dłoni oraz stawu biodrowego i skokowego**
+        
+    
+3. **Długość absolutna (anatomiczna)**
+    
+    - całkowita długość kończyny
+        
+    
+4. **Długość odcinkowa (relatywna)**
+    
+    - długość konkretnego segmentu, np. ramienia, przedramienia, uda, podudzia, stopy
+        
+    
 
-## Długość absolutna (anatomiczna)
+---
 
-PW - siedząca lub stojąca.
-PPiK - guzek większy kości ramiennej, koniec opuszki najdłuższego palca.
+# **🦾** **KOŃCZYNA GÓRNA**
 
-W przypadku amputacji dokonuje się pomiaru znajdującego się najdalej obwodowego punktu.
+---
 
-## Długość ramienna
+## **Długość ręki (bez uwzględnienia dłoni)**
 
-PW - siedząca lub stojąca.
-PPiK - guzek większy kości ramiennej, wyrostek rylcowaty kości łokciowej.
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** wyrostek barkowy łopatki → wyrostek rylcowaty kości promieniowej
+    
+- **Uwaga:**
+    
+    Wyrostek barkowy lokalizujemy, przesuwając palce po grzebieniu łopatki w kierunku bocznym.
+    
 
-## Długość przedramienia
-PW - siedząca lub stojąca.
-PPiK - wyrostek rylcowaty przedramienia
+---
 
-## Długość ręki/dłoni
-PW- Siedząca
-PPiK środek linii łączącej wyrostki rylcowate przedramienia, opuszki najdłuższego palca
+## **Długość bezwzględna kończyny górnej**
 
-Pomiaru dokonuje się po stronie grzbietowej.
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** guzek większy kości ramiennej → wyrostek rylcowaty kości promieniowej
+    
+- **Lokalizacja guzka większego:**
+    
+    - ruchy rotacyjne stawu ramiennego
+        
+    - odwiedzenie ramienia
+        
+    - szukamy punktu najbardziej dogłowowego
+        
+    
 
-## Szerokość ręki/dłoni
+---
 
-PW- Siedząca
-PPiK - przyśrodkowa część główki drugiej kości śródręcza, boczna część piątej kości śródręcza
+## **Długość absolutna (anatomiczna) kończyny górnej**
 
-Pomiaru dokonuje się po stronie grzbietowej. 
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** guzek większy kości ramiennej → opuszek najdłuższego palca
+    
+- **Uwaga:** przy amputacjach mierzysz do **najbardziej obwodowego zachowanego punktu**.
+    
 
-## Kończyna dolna
+---
 
-### Długość względna
-- **Pozycja wyjściowa (PW):** stojąca lub siedząca
-- **Punkty pomiaru i kontrolne (PPiK):** kolec biodrowy przedni górny - kostka przyśrodkowa goleni
-- Ważne jest, aby kończyna dolna podczas pomiaru znajdowała się w pozycji pośredniej pomiędzy rotacją zewnętrzną a wewnętrzną.
+## **Długość ramienia**
 
-### Długość bezwzględna
-- **Pozycja wyjściowa (PW):** stojąca lub leżenie tyłem
-- **Punkty pomiaru i kontrolne (PPiK):** więzadło krętarza większego kości udowej - kostka boczna goleni
-- Krętarz większy należy zlokalizować poprzez ruch rotacyjny stawu biodrowego lub w czasie jego odwodzenia. Należy znaleźć punkt na krętarzu większym, który jest najbardziej wyczuwalny do głowowo.
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** guzek większy kości ramiennej → wyrostek rylcowaty kości łokciowej
+    
 
-### Długość absolutna
-- **Pozycja wyjściowa (PW):** siedząca lub leżenie tyłem
-- **Punkty pomiaru i kontrolne (PPiK):** krętarz większy kości udowej - zewnętrzna krawędź stopy na wysokości kostki bocznej
-- Stopa powinna być ustawiona w pozycji anatomicznej. W przypadku amputacji pomiaru dokonuje się do punktu znajdującego się najdalej obwodowo. 
+---
 
-Ważne jest, aby wszystkie pomiary były przeprowadzane precyzyjnie i starannie, uwzględniając anatomiczne punkty orientacyjne oraz odpowiednie pozycje ciała, co zapewni dokładność wyników.
+## **Długość przedramienia**
+
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** wyrostek rylcowaty kości przedramienia
+    
+
+---
+
+## **Długość ręki/dłoni**
+
+- **PW:** siedząca
+    
+- **PPiK:**
+    
+    - początek: środek linii łączącej oba wyrostki rylcowate przedramienia
+        
+    - koniec: opuszek najdłuższego palca
+        
+    
+- **Pomiar po stronie:** grzbietowej
+    
+
+---
+
+## **Szerokość ręki/dłoni**
+
+- **PW:** siedząca
+    
+- **PPiK:**
+    
+    - część przyśrodkowa głowy II kości śródręcza
+        
+    - część boczna głowy V kości śródręcza
+        
+    
+- **Pomiar po stronie:** grzbietowej
+    
+
+---
+
+# **🦿**  **KOŃCZYNA DOLNA**
+
+---
+
+## **Długość względna kończyny dolnej**
+
+- **PW:** stojąca lub siedząca
+    
+- **PPiK:** kolec biodrowy przedni górny → kostka przyśrodkowa
+    
+- **Uwaga:** kończyna musi być ustawiona **pośrednio** między rotacją zewnętrzną a wewnętrzną.
+    
+
+---
+
+## **Długość bezwzględna kończyny dolnej**
+
+- **PW:** stojąca lub leżenie tyłem
+    
+- **PPiK:** krętarz większy kości udowej → kostka boczna
+    
+- **Lokalizacja krętarza większego:**
+    
+    - ruch rotacyjny stawu biodrowego
+        
+    - odwiedzenie
+        
+    - szukamy punktu najbardziej dogłowowego
+        
+    
+
+---
+
+## **Długość absolutna kończyny dolnej**
+
+- **PW:** siedząca lub leżenie tyłem
+    
+- **PPiK:** krętarz większy kości udowej → zewnętrzna krawędź stopy na wysokości kostki bocznej
+    
+- **Stopa:** w pozycji anatomicznej
+    
+- **Amputacja:** mierzymy do najbardziej obwodowego punktu kończyny
+    
+
+---
+
+## **Długość uda**
+
+- **PW:** stojąca lub leżenie tyłem
+    
+- **PPiK:** krętarz większy kości udowej → szpara stawu kolanowego (strona boczna)
+    
+- **Jak znaleźć szparę?:**
+    
+    przesuwamy palec po wierzchołku rzepki w kierunku bocznym
+    
+
+---
+
+## **Długość podudzia**
+
+- **PW:** stojąca lub leżenie tyłem
+    
+- **PPiK:** szpara stawu kolanowego (strona przyśrodkowa) → kostka przyśrodkowa
+    
+- **Szparę lokalizujemy:**
+    
+    przesuwając palec po rzepce w kierunku przyśrodkowym
+    
+
+---
+
+## **Długość stopy**
+
+- **PW:** stojąca lub leżąca
+    
+- **PPiK:** guz piętowy → opuszek najdłuższego palca
+    
+- **Pomiar:** po stronie podeszwowej
+    
+- **W staniu:** wynik zwykle **+0.5–1 cm**
+    
+
+---
+
+## **Szerokość stopy**
+
+- **PW:** stojąca lub leżenie tyłem
+    
+- **PPiK:** głowa I kości śródstopia → głowa V kości śródstopia
+    
+- **Pomiar:** po stronie grzbietowej
+    
+
+---
+
+## **🧠** ## **Uwagi końcowe**
+
+- Precyzja zależy od **dokładnego odnalezienia punktów kostnych**
+    
+- Kończyna powinna być ustawiona **symetrycznie i neutralnie**
+    
+- Różnice między stronami mogą świadczyć o:
+    
+    - asymetriach kostnych
+        
+    - przykurczach
+        
+    - deformacjach
+        
+    - skutkach urazów
+        
+    - zaburzeniach rozwojowych

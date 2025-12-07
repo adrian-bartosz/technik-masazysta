@@ -1,3 +1,6 @@
+
+> Trzustka się **nie regeneruje**. Potrzebujemy dawcy. 
+
 To choroba, która pojawia się najczęściej w wyniku **nadmiernego spożycia alkoholu**,  
 a także może być skutkiem **kamicy żółciowej**.
 
@@ -50,3 +53,11 @@ Zalecenia:
 - suplementacja witaminami **rozpuszczalnymi w tłuszczach (A, D, E, K)**  
 
 ---
+
+# 💆‍♂️ Masaż okrężnicy i dolnej części powłok brzusznych
+
+
+Jako masażysta wykonujemy masaż **okrężnicy (jelita grubego)** oraz **dolnej części powłok brzusznych** za pomocą **drenażu limfatycznego**.
+
+
+
