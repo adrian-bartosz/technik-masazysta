@@ -3,6 +3,7 @@ title: Rozkład jazdy
 ---
 
 # Zjazdy
+- 07.12 - fizjoterapia, zaliczenie, pomiary dlugosci konczyn, pomiary obwodow konczyn
 - 13.12 - pierwsza pomoc, egzamin (chyba ustny)
 - 14.12 - ostatnie zajecia teoretyczne
 - 19.12 - ostatnie zajecia praktyczne
