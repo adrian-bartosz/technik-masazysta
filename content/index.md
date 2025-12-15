@@ -2,21 +2,12 @@
 title: Rozkład jazdy
 ---
 
-# Zjazdy
-- 07.12 - fizjoterapia, zaliczenie, pomiary dlugosci konczyn, pomiary obwodow konczyn
-- 13.12 - pierwsza pomoc, egzamin (chyba ustny)
-- 14.12 - ostatnie zajecia teoretyczne
-- 19.12 - ostatnie zajecia praktyczne
-
----
-# Egzaminy
-- 04.01 - egzamin zagadnienia kliniczne
-- 04.01 - egzamin teoretyczne podstawy masazu
+# Terminy
+- 19.12 - pomiary dlugosci i obwodow
+- 04.01 - [[ZAGADNIENIA KLINICZNE – STRUKTURA EGZAMINACYJNA (OPISÓWKA)]]
+- 04.01 - [[TEORETYCZNE PODSTAWY MASAŻU - STRUKTURA EGZAMINACYJNA (OPISÓWKA)]]
 - 09.01 - egzamin praktyczny masaz caly semeter - po 6 osob na godzine
-- 11.01 - egzamin anatomia
-- 11.01 - egzamin fizjoterapia
+- 11.01 - [[ANATOMIA - STRUKTURA EGZAMINACYJNA (TEST)]]
+- 11.01 - [[FIZJOTERAPIA - STRUKTURA EGZAMINACYJNA (OPISÓWKA)]]
+- 17.01 - nowy semestr
 
----
-# Semestr II 
-
-17/18.01 - nowy semestr

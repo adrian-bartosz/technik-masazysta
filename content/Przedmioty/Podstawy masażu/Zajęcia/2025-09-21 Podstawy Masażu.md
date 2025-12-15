@@ -1,1 +1,1 @@
-[[Cechy masażysty]]
+[[Cechy psychofizyczne masażysty]]
