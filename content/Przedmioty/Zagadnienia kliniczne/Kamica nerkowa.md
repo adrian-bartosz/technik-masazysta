@@ -1,0 +1,4 @@
+Kamica moczowa często przebiega bezobjawowo Prowadzi to do powstawania tak zwanych kamieni oblewanych niszczących nerki, a bardzo trudnych do leczenia. Najczęstszymi objawami są niecharakterystyczne bóle pleców oraz długo utrzymująca się infekcja dróg moczowych, często mylona przez pacjentów z nawracającym zapaleniem pęcherza moczowego……  
+  
+Leczenie zachopwawcze dotyczy małych kamieni i polega na wykonaniu przez pacjeta tak zwanych uderzeń wodnych czyli zmuszeniu nerek do wydalenia dużej ilości moczu i wykonywaniu szeregu podskoków co powinno skutkować wydalenia kamienia. Takie usuwanie kamieni nerkowych jest relatywanie bezpieczne dla organizmu gdyż nie wymaga interwencji chirurgicznej, jednak bywa bardzo dyskomfortowe dla pacjenta.   
+W przypadku kamieni większych mogących powodować uszkodzenie nerek konieczne jest wykonanie zabiegu operacyjnego. 

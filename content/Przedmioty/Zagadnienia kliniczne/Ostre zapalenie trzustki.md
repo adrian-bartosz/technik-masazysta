@@ -2,7 +2,7 @@
 > Trzustka się **nie regeneruje**. Potrzebujemy dawcy. 
 
 To choroba, która pojawia się najczęściej w wyniku **nadmiernego spożycia alkoholu**,  
-a także może być skutkiem **kamicy żółciowej**.
+a także może być skutkiem **[[Kamica żółciowa]]**.
 
 ---
 ## ⚡ Objawy
