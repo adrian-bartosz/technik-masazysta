@@ -1,12 +1,12 @@
-![[Pasted image 20260105231743.png]]
+![[konczyna gorna 1.png]]
 
-![[Pasted image 20260105231756.png]]
+![[konczyna gorna 2.png]]
 
-![[Pasted image 20260105231805.png]]
+![[konczyna gorna 3.png]]
 
-![[Pasted image 20260105231813.png]]
+![[konczyna gorna 4.png]]
 
-![[Pasted image 20260105231821.png]]
+![[konczyna gorna 5.png]]
 
-![[Pasted image 20260105231830.png]]
-![[Pasted image 20260105231840.png]]
+![[konczyna gorna 6.png]]
+![[konczyna gorna 7.png]]
