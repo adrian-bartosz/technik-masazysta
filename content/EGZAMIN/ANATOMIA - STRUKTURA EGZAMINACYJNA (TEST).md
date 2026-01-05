@@ -193,12 +193,16 @@
 
 ## KLATKA PIERSIOWA
 
-| Mięsień | Region | Warstwa | Grupa | Funkcja (testowo) |
-|---|---|---|---|---|
-| Piersiowy większy | Klatka piersiowa | Powierzchowna | Ruchów KG | Przywodzenie + rotacja wewnętrzna ramienia |
-| Piersiowy mniejszy | Klatka piersiowa | Głęboka | Obręcz barkowa | Obniżanie i stabilizacja łopatki |
-| Zębaty przedni | Klatka piersiowa | Powierzchowna | Obręcz barkowa | Protrakcja + stabilizacja łopatki |
-| Międzyżebrowe | Klatka piersiowa | Głęboka | Oddechowa | Ruchy oddechowe klatki |
+| Mięsień                  | Region           | Warstwa       | Grupa          | Funkcja (testowo)                          |
+| ------------------------ | ---------------- | ------------- | -------------- | ------------------------------------------ |
+| Piersiowy większy        | Klatka piersiowa | Powierzchowna | Ruchów KG      | Przywodzenie + rotacja wewnętrzna ramienia |
+| Piersiowy mniejszy       | Klatka piersiowa | Powierzchowna | Obręcz barkowa | Obniżanie i stabilizacja łopatki           |
+| Zębaty przedni           | Klatka piersiowa | Powierzchowna | Obręcz barkowa | Protrakcja + stabilizacja łopatki          |
+| Poobojczykowy            | Klatka piersiowa | Powierzchowna |                |                                            |
+| Międzyżebrowe wewnetrzne | Klatka piersiowa | Głęboka       | Oddechowa      | Ruchy oddechowe klatki                     |
+| Miedzyzebrowe zewnetrzne | Klatka piersiowa | Gleboka       |                |                                            |
+| Przepona                 | Klatka piersiowa |               |                |                                            |
+| Miesien poprzeczny       | Klatka piersiowa | Glekoa        |                |                                            |
 
 ---
 
