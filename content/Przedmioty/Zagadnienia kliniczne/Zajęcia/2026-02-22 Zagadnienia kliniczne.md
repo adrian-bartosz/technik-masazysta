@@ -39,3 +39,65 @@ Zwichnięciu mogą towarzyszyć uszkodzenia sąsiadujących naczyń krwionośnyc
 Do unieruchomienia użyj jakiegokolwiek sztywnego przedmiotu, pamiętając o tym, że to przedmiot dopasowujemy do uszkodzonej kończyny (nigdy odwrotnie), owijając go bandażem.
 
 Jeśli doszło do złamania otwartego (widoczne przez ranę odłamki kostne), w miejscu rany należy zastosować opatrunek taki sam jak w przypadku krwawienia. Pamiętaj, aby nie wyjmować ani wciskać do środka wystających elementów kości.
+
+---
+
+## Zapamiętaj
+
+- **Skręcenie** = kontakt powierzchni stawowych zachowany, ale przekroczony zakres ruchu → uszkodzenie więzadeł/torebki
+- **Zwichnięcie** = utrata kontaktu powierzchni stawowych → zniesienie ruchomości
+- Skręcenie III stopnia = całkowite przerwanie więzadła + niestabilność stawu
+- Przy złamaniu: **unieruchom w pozycji zastanej**, przedmiot dopasowuj do kończyny (nigdy odwrotnie)
+- Przy złamaniu otwartym: **nie wyjmuj ani nie wciskaj** wystających elementów kości
+
+---
+
+## Quiz
+
+> [!question] Pytanie 1
+> Czym różni się skręcenie od zwichnięcia?
+>
+> A) Przy skręceniu kontakt powierzchni stawowych jest zachowany, przy zwichnięciu – nie
+> B) Skręcenie dotyczy kości, zwichnięcie – więzadeł
+> C) Nie ma różnicy, to synonimy
+> D) Skręcenie jest zawsze cięższe niż zwichnięcie
+>
+> <details><summary>Odpowiedź</summary>A) Przy skręceniu powierzchnie stawowe zachowują kontakt (ruch przekracza zakres fizjologiczny), przy zwichnięciu tracą kontakt.</details>
+
+> [!question] Pytanie 2
+> Co charakteryzuje skręcenie III stopnia?
+>
+> A) Uszkodzenie pojedynczych włókien, brak ruchomości patologicznej
+> B) Częściowe uszkodzenie więzadeł
+> C) Całkowite przerwanie więzadła i utrata stabilności stawu
+> D) Wyłącznie obrzęk bez bólu
+>
+> <details><summary>Odpowiedź</summary>C) Całkowite przerwanie ciągłości więzadła i utrata stabilności stawu.</details>
+
+> [!question] Pytanie 3
+> Jak prawidłowo unieruchomić kończynę przy złamaniu?
+>
+> A) Wymusić naturalną pozycję kończyny
+> B) Dopasować kończynę do szyny
+> C) Unieruchomić w pozycji zastanej, dopasowując przedmiot do kończyny
+> D) Nie unieruchamiać, czekać na pogotowie
+>
+> <details><summary>Odpowiedź</summary>C) Unieruchomić w pozycji zastanej – to przedmiot dopasowujemy do uszkodzonej kończyny, nigdy odwrotnie.</details>
+
+> [!question] Pytanie 4
+> Co zrobić z widocznymi odłamkami kostnymi przy złamaniu otwartym?
+>
+> A) Delikatnie je wcisnąć
+> B) Wyjąć i oczyścić
+> C) Nie wyjmować ani nie wciskać, założyć opatrunek jak przy krwawieniu
+> D) Zdezynfekować i nastawić
+>
+> <details><summary>Odpowiedź</summary>C) Nie wyjmować ani wciskać – zastosować opatrunek taki sam jak w przypadku krwawienia.</details>
+
+---
+
+## Źródła
+
+- Zborowski A., *Masaż w wybranych jednostkach chorobowych*, PZWL
+- Buckup K., *Testy kliniczne w badaniu kości, stawów i mięśni*, PZWL
+- Krauss H. (red.), *Pierwsza pomoc przedmedyczna*, Wydawnictwo UM Poznań

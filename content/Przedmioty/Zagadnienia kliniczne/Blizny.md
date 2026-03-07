@@ -40,3 +40,65 @@ W trakcie długiego procesu tworzenia się i kształtowania blizna przechodzi pr
 - **Blizny rumieniowe** – charakteryzują się przedłużoną angiogenezą podczas tworzenia się zmiany, co powoduje obecność trwałego rumienia. Angiogeneza to proces tworzenia się naczyń włosowatych.
 - **Blizny przebarwione** – powstają wskutek pourazowej stymulacji komórek, które przemieszczają się do skóry właściwej i powodują pigmentacyjne przebarwienia skóry.
 - **Blizny zanikowe** – są to najczęściej małe i okrągłe blizny o charakterze zagłębień w skórze. Powstają w czasie gojenia się skóry po ospie wietrznej lub trądziku.
+
+---
+
+## Zapamiętaj
+
+- **Rana** to przerwanie ciągłości skóry – może być wywołana urazem mechanicznym, termicznym lub chemicznym
+- **Blizna** to tkanka łączna bogata w kolagen, która zastępuje uszkodzoną tkankę – nie posiada właściwości tkanki pierwotnej
+- Przemiany barwne blizny trwają od 6 miesięcy do 1,5 roku (czerwona → różowa → perłowa)
+- **Bliznowce** to nadmierne skupiska kolagenu wystające ponad skórę – częściej u osób o ciemnej karnacji
+- Jako masażysta opracowujesz bliznę w celu poprawy jej elastyczności, koloru i funkcji tkanek
+
+---
+
+## Quiz
+
+> [!question] Pytanie 1
+> Jaki rodzaj rany powstaje przy działaniu ostrego przedmiotu ustawionego skośnie do powierzchni ciała?
+>
+> A) Rana cięta
+> B) Rana płatowa
+> C) Rana rąbana
+> D) Rana kłuta
+>
+> <details><summary>Odpowiedź</summary>B) Rana płatowa – powstaje gdy czynnik działa skośnie/stycznie, tworząc oderwany fragment skóry.</details>
+
+> [!question] Pytanie 2
+> Jak długo trwają przemiany barwne blizny?
+>
+> A) 2-4 tygodnie
+> B) 1-3 miesiące
+> C) 6 miesięcy do 1,5 roku
+> D) 2-3 lata
+>
+> <details><summary>Odpowiedź</summary>C) Od 6 miesięcy do 1,5 roku – blizna przechodzi od czerwonej, przez różową, aż do perłowej.</details>
+
+> [!question] Pytanie 3
+> U kogo najczęściej występują bliznowce?
+>
+> A) U osób starszych o jasnej karnacji
+> B) U młodych ludzi o ciemnej karnacji
+> C) U dzieci poniżej 5. roku życia
+> D) U osób z niedoborem kolagenu
+>
+> <details><summary>Odpowiedź</summary>B) U młodych ludzi o ciemnej karnacji – przyczyną jest skłonność do nadmiernej produkcji kolagenu.</details>
+
+> [!question] Pytanie 4
+> Czym różni się blizna przerostowa od bliznowca?
+>
+> A) Blizna przerostowa nie wystaje ponad skórę
+> B) Bliznowiec rozwija się szybciej
+> C) Blizna przerostowa rozwija się w ciągu kilku tygodni po urazie, bliznowiec jest skutkiem nadmiernego gromadzenia kolagenu u predysponowanych osób
+> D) Nie ma różnicy
+>
+> <details><summary>Odpowiedź</summary>C) Blizna przerostowa rozwija się w pierwszych tygodniach po urazie; bliznowiec to efekt predyspozycji do nadmiernej produkcji kolagenu.</details>
+
+---
+
+## Źródła
+
+- Magiera L., *Klasyczny masaż leczniczy*, Wydawnictwo Bio-Styl
+- Zborowski A., *Masaż w wybranych jednostkach chorobowych*, PZWL
+- Woźniewski M., Kołodziej J., *Rehabilitacja w chirurgii*, PZWL

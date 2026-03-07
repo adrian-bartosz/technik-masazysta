@@ -35,3 +35,65 @@ Objawy stwardnienia rozsianego mogą obejmować:
 ## Rola masażysty w SM
 
 Masażysta w początkowej fazie SM może wzmocnić siłę mięśni, najlepiej izometrycznie. U większości pacjentów stosuje się masaż klasyczny lub segmentarny. W późniejszych fazach choroby nie ruszamy takiej osoby.
+
+---
+
+## Zapamiętaj
+
+- **SM** to przewlekła, nieuleczalna choroba polegająca na niszczeniu osłonek mielinowych włókien nerwowych
+- Najczęstsza postać to **rzutowo-remisyjna** – epizody rzutów przeplatane okresami bez objawów
+- Kluczowe objawy: zaburzenia wzroku, czucia, równowagi, spastyczność, zmęczenie
+- Masażysta w **początkowej fazie** może wzmacniać mięśnie (najlepiej izometrycznie), w późniejszych fazach – nie ruszamy pacjenta
+- Stosujemy masaż **klasyczny lub segmentarny**
+
+---
+
+## Quiz
+
+> [!question] Pytanie 1
+> Co atakuje stwardnienie rozsiane?
+>
+> A) Kości i stawy
+> B) Mielinę – osłonki włókien nerwowych
+> C) Mięśnie szkieletowe
+> D) Tkankę tłuszczową
+>
+> <details><summary>Odpowiedź</summary>B) Mielinę – osłonki włókien nerwowych. Ich zniszczenie uniemożliwia prawidłowe przewodzenie sygnałów z OUN.</details>
+
+> [!question] Pytanie 2
+> Która postać SM jest najczęstsza?
+>
+> A) Pierwotnie postępująca
+> B) Wtórnie postępująca
+> C) Rzutowo-remisyjna
+> D) Pierwotnie postępująca z rzutami
+>
+> <details><summary>Odpowiedź</summary>C) Rzutowo-remisyjna – przebiega z epizodami rzutów i okresami remisji.</details>
+
+> [!question] Pytanie 3
+> Jaki rodzaj masażu stosujemy u pacjentów z SM?
+>
+> A) Masaż sportowy i drenaż limfatyczny
+> B) Masaż klasyczny lub segmentarny
+> C) Wyłącznie masaż punktowy
+> D) Masaż nie jest wskazany w SM
+>
+> <details><summary>Odpowiedź</summary>B) Masaż klasyczny lub segmentarny. W początkowej fazie wzmacniamy mięśnie izometrycznie.</details>
+
+> [!question] Pytanie 4
+> Co powinien zrobić masażysta w późniejszych fazach SM?
+>
+> A) Intensywnie ćwiczyć z pacjentem
+> B) Stosować masaż głęboki
+> C) Nie ruszać takiej osoby
+> D) Stosować wyłącznie hydroterapię
+>
+> <details><summary>Odpowiedź</summary>C) W późniejszych fazach choroby nie ruszamy takiej osoby.</details>
+
+---
+
+## Źródła
+
+- Magiera L., *Klasyczny masaż leczniczy*, Wydawnictwo Bio-Styl
+- Zborowski A., *Masaż w wybranych jednostkach chorobowych*, PZWL
+- Selmaj K., *Stwardnienie rozsiane*, Wydawnictwo Medyczne Termedia
