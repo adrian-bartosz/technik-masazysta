@@ -1,3 +1,3 @@
 [[Blizny]]
-[[Stwiardnienie rozsiane]]
+[[Stwardnienie rozsiane]]
 
