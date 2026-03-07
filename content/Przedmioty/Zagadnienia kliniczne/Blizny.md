@@ -43,6 +43,28 @@ W trakcie długiego procesu tworzenia się i kształtowania blizna przechodzi pr
 
 ---
 
+## Scenariusz kliniczny
+
+> [!example] Pacjentka z blizną po operacji
+> Kobieta, 34 lata. Zgłasza się 4 miesiące po appendektomii (usunięcie wyrostka robaczkowego). Blizna w prawym dole biodrowym – czerwona, twarda, lekko wystająca ponad powierzchnię skóry. Pacjentka skarży się na świąd i uczucie ściągania w okolicy blizny. Skóra wokół blizny jest mało elastyczna.
+>
+> **Pytania do przemyślenia:**
+> 1. Jaki to rodzaj blizny? Jak to rozpoznajesz?
+> 2. Czy blizna jest już dojrzała? Na jakiej jest fazie przemian barwnych?
+> 3. Jakie techniki masażu zastosujesz?
+> 4. Na co uważasz? Czego nie robisz?
+>
+> <details><summary>Rozwiązanie</summary>
+>
+> 1. Cechy wskazują na **[[Blizny|bliznę przerostową]]** – czerwona, zgrubiała, wystająca, z towarzyszącym świądem. Gdyby wyraźnie wykraczała poza granice rany, mogłoby to być **bliznowiec**.
+> 2. 4 miesiące po operacji – blizna jest w fazie **czerwonej**, jeszcze niedojrzała. Pełne przemiany barwne trwają od 6 miesięcy do 1,5 roku.
+> 3. Celem masażu jest poprawa elastyczności, koloru i funkcji tkanek. Stosujemy techniki rozluźniające tkankę bliznowatą – rozcieranie, mobilizację blizny (przesuwanie w różnych kierunkach).
+> 4. Nie pracujemy na świeżych bliznach (przed zdjęciem szwów). Unikamy zbyt agresywnego nacisku, który mógłby pogorszyć stan blizny przerostowej.
+>
+> </details>
+
+---
+
 ## Zapamiętaj
 
 - **Rana** to przerwanie ciągłości skóry – może być wywołana urazem mechanicznym, termicznym lub chemicznym

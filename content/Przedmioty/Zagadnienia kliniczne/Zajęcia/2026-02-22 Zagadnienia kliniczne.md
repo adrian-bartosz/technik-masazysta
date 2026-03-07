@@ -42,6 +42,28 @@ Jeśli doszło do złamania otwartego (widoczne przez ranę odłamki kostne), w 
 
 ---
 
+## Scenariusz kliniczny
+
+> [!example] Pacjent po urazie kostki
+> Mężczyzna, 22 lata, koszykarz. 3 dni temu skręcił kostkę podczas meczu – "stopa podwinęła się do wewnątrz". Obrzęk po stronie bocznej stawu skokowego, bolesność przy palpacji, chodzi z lekkim utykaniem. RTG wykluczył złamanie. Lekarz zalecił ortezę.
+>
+> **Pytania do przemyślenia:**
+> 1. Jaki to stopień skręcenia? Na podstawie czego to oceniasz?
+> 2. Czy to skręcenie czy zwichnięcie? Jak odróżniasz?
+> 3. Czy masażysta może teraz pracować z tym pacjentem? Co robisz?
+> 4. Kiedy odsyłasz pacjenta do lekarza?
+>
+> <details><summary>Rozwiązanie</summary>
+>
+> 1. Prawdopodobnie **[[2026-02-22 Zagadnienia kliniczne|skręcenie II stopnia]]** – częściowe uszkodzenie więzadeł, wyraźny obrzęk i ból, ale pacjent chodzi (choć z utykaniem). Lekarz zalecił ortezę, co jest typowe dla II/III stopnia.
+> 2. To **skręcenie, nie zwichnięcie** – przy skręceniu kontakt powierzchni stawowych jest zachowany (pacjent rusza stopą, chodzi). Przy zwichnięciu powierzchnie stawowe tracą kontakt → zniesienie ruchomości.
+> 3. W fazie ostrej (3 dni) – ostrożnie. Masażysta może pracować z okolicznymi mięśniami (łydka, stopa) po ustąpieniu ostrego stanu zapalnego. Nie masujemy bezpośrednio obrzękniętego, bolesnego stawu.
+> 4. Odsyłamy gdy: podejrzenie złamania (już wykluczone RTG), nasilający się obrzęk, brak czucia lub tętna obwodowo, niestabilność stawu (podejrzenie III stopnia).
+>
+> </details>
+
+---
+
 ## Zapamiętaj
 
 - **Skręcenie** = kontakt powierzchni stawowych zachowany, ale przekroczony zakres ruchu → uszkodzenie więzadeł/torebki

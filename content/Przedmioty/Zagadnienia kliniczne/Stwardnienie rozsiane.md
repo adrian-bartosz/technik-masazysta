@@ -38,6 +38,28 @@ Masażysta w początkowej fazie SM może wzmocnić siłę mięśni, najlepiej iz
 
 ---
 
+## Scenariusz kliniczny
+
+> [!example] Pacjent z wczesnym SM
+> Mężczyzna, 29 lat, zdiagnozowany ze stwardnieniem rozsianym 6 miesięcy temu. Postać rzutowo-remisyjna. Aktualnie w fazie remisji. Zgłasza: osłabienie siły mięśni kończyn dolnych, uczucie sztywności mięśni uda, ogólne zmęczenie. Chce wiedzieć czy masaż mu pomoże i czego może się spodziewać.
+>
+> **Pytania do przemyślenia:**
+> 1. W jakiej postaci klinicznej jest pacjent? Co to oznacza?
+> 2. Jakie objawy z listy SM rozpoznajesz u tego pacjenta?
+> 3. Jakie techniki masażu zastosujesz? Jaki rodzaj ćwiczeń?
+> 4. Czego absolutnie nie robisz? Kiedy musisz odmówić masażu?
+>
+> <details><summary>Rozwiązanie</summary>
+>
+> 1. **[[Stwardnienie rozsiane|Postać rzutowo-remisyjna]]** – najczęstsza postać SM. Epizody rzutów przeplatane okresami remisji (brak lub złagodzenie objawów). Pacjent jest w remisji – to dobry moment na pracę.
+> 2. Rozpoznajemy: **spastyczność** (sztywność mięśni uda), **osłabienie siły mięśniowej** (kończyny dolne), **zespół przewlekłego zmęczenia**.
+> 3. Stosujemy **masaż klasyczny lub segmentarny**. Wzmacniamy siłę mięśni **najlepiej izometrycznie** – pacjent napina mięsień bez ruchu w stawie.
+> 4. **W późniejszych fazach choroby nie ruszamy takiej osoby.** Podczas rzutu (zaostrzenia) – nie masujemy. Nie stosujemy agresywnych technik na spastyczne mięśnie.
+>
+> </details>
+
+---
+
 ## Zapamiętaj
 
 - **SM** to przewlekła, nieuleczalna choroba polegająca na niszczeniu osłonek mielinowych włókien nerwowych
