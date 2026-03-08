@@ -84,32 +84,59 @@ Choroby serca, tętnic i żył, które mogą być związane m.in. z odkładaniem
 > [!question] Pytanie 1
 > Jakie są cztery główne funkcje układu krwionośnego?
 >
-> A) Transport, usuwanie, trawienie, obrona
-> B) Transport, usuwanie, regulacja, obrona
-> C) Transport, oddychanie, regulacja, obrona
+> A) Transport, usuwanie, trawienie, obrona\
+> B) Transport, usuwanie, regulacja, obrona\
+> C) Transport, oddychanie, regulacja, obrona\
 > D) Regulacja, obrona, wydzielanie, transport
 >
-> <details><summary>Odpowiedź</summary>B) Transport, usuwanie, regulacja, obrona.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Transport, usuwanie, regulacja, obrona.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Trawienie nie jest funkcją układu krwionośnego – to funkcja układu pokarmowego.\
+> C) Oddychanie to funkcja układu oddechowego; układ krwionośny jedynie transportuje gazy.\
+> D) Wydzielanie to funkcja gruczołów/układu endokrynnego, nie krwionośnego.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Czym różni się tętnica od żyły?
 >
-> A) Tętnica ma cieńsze ściany i zastawki
-> B) Żyła wyprowadza krew z serca pod wysokim ciśnieniem
-> C) Tętnica ma grube elastyczne ściany i wyprowadza krew z serca, żyła ma cieńsze ściany z zastawkami i doprowadza krew do serca
+> A) Tętnica ma cieńsze ściany i zastawki\
+> B) Żyła wyprowadza krew z serca pod wysokim ciśnieniem\
+> C) Tętnica ma grube elastyczne ściany i wyprowadza krew z serca, żyła ma cieńsze ściany z zastawkami i doprowadza krew do serca\
 > D) Nie ma różnicy strukturalnej, różnią się tylko kierunkiem przepływu
 >
-> <details><summary>Odpowiedź</summary>C) Tętnica – grube ściany, wysokie ciśnienie, krew z serca. Żyła – cieńsze ściany, zastawki, krew do serca.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Tętnica – grube ściany, wysokie ciśnienie, krew z serca. Żyła – cieńsze ściany, zastawki, krew do serca.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Jest odwrotnie – to żyły mają cieńsze ściany i zastawki, nie tętnice.\
+> B) Jest odwrotnie – to tętnice wyprowadzają krew z serca, żyły doprowadzają do serca.\
+> D) Różnią się zarówno strukturalnie (grubość ścian, obecność zastawek), jak i kierunkiem przepływu.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Gdzie zachodzi wymiana tlenu i składników odżywczych między krwią a komórkami?
 >
-> A) W tętnicach
-> B) W żyłach
-> C) W kapilarach (naczyniach włosowatych)
+> A) W tętnicach\
+> B) W żyłach\
+> C) W kapilarach (naczyniach włosowatych)\
 > D) W sercu
 >
-> <details><summary>Odpowiedź</summary>C) W kapilarach – bardzo cienkie naczynia umożliwiające wymianę substancji.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) W kapilarach – bardzo cienkie naczynia umożliwiające wymianę substancji.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Tętnice transportują krew z serca do tkanek, ale ich grube ściany nie pozwalają na wymianę substancji – to rola kapilarów.\
+> B) Żyły zbierają krew i transportują ją z powrotem do serca – nie są miejscem wymiany gazowej ani odżywczej.\
+> D) Serce pełni funkcję pompy przepompowującej krew – wymiana tlenu i składników odżywczych z komórkami zachodzi w tkankach, a nie w samym sercu.
+>
+> </details>
 
 ---
 

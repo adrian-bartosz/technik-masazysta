@@ -46,42 +46,78 @@
 > [!question] Pytanie 1
 > Co jest główną przyczyną GERD?
 >
-> A) Nadmierne wydzielanie kwasu solnego
-> B) Nadmierna relaksacja dolnego zwieracza przełyku (LES)
-> C) Zakażenie bakterią Helicobacter pylori
+> A) Nadmierne wydzielanie kwasu solnego\
+> B) Nadmierna relaksacja dolnego zwieracza przełyku (LES)\
+> C) Zakażenie bakterią Helicobacter pylori\
 > D) Niedobór enzymów trawiennych
 >
-> <details><summary>Odpowiedź</summary>B) Nadmierna relaksacja dolnego zwieracza przełyku (LES) – umożliwia zarzucanie kwaśnej treści żołądkowej do przełyku.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Nadmierna relaksacja dolnego zwieracza przełyku (LES).**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Nadmierne wydzielanie kwasu solnego może nasilać objawy, ale główną przyczyną GERD jest niewydolność LES, który nie zabezpiecza przed cofaniem się treści żołądkowej.\
+> C) Helicobacter pylori jest związany z chorobą wrzodową żołądka i dwunastnicy, nie z GERD – GERD wynika z uszkodzenia bariery antyrefluksowej.\
+> D) Niedobór enzymów trawiennych prowadzi do zaburzeń trawienia, ale nie jest przyczyną refluksu żołądkowo-przełykowego.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Co to jest dyspepsja?
 >
-> A) Ból w klatce piersiowej
-> B) Problem z przełykaniem
-> C) Dyskomfort związany z trawieniem – ból w górnej części brzucha, pełność, nudności
+> A) Ból w klatce piersiowej\
+> B) Problem z przełykaniem\
+> C) Dyskomfort związany z trawieniem – ból w górnej części brzucha, pełność, nudności\
 > D) Uczucie ciała obcego w gardle
 >
-> <details><summary>Odpowiedź</summary>C) Dyspepsja to dyskomfort trawienny obejmujący ból w nadbrzuszu, pełność po jedzeniu, wczesną sytość, nudności i wymioty.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Dyskomfort związany z trawieniem – ból w górnej części brzucha, pełność, nudności.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Ból w klatce piersiowej to osobny objaw przełykowy GERD (niekardiologiczny ból w klatce piersiowej), nie dyspepsja.\
+> B) Problem z przełykaniem to dysfagia, nie dyspepsja – są to dwa odrębne objawy przełykowe.\
+> D) Uczucie ciała obcego w gardle to uczucie globusa – kolejny odrębny objaw GERD.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Które z poniższych to objaw pozaprzełykowy GERD?
 >
-> A) Zgaga
-> B) Dysfagia
-> C) Chrypka
+> A) Zgaga\
+> B) Dysfagia\
+> C) Chrypka\
 > D) Niestrawność
 >
-> <details><summary>Odpowiedź</summary>C) Chrypka – obok kaszlu i czkawki należy do objawów pozaprzełykowych GERD.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Chrypka.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Zgaga jest objawem przełykowym GERD, nie pozaprzełykowym.\
+> B) Dysfagia (problem z przełykaniem) jest objawem przełykowym, nie pozaprzełykowym.\
+> D) Niestrawność jest objawem przełykowym GERD – objawy pozaprzełykowe to czkawka, kaszel i chrypka.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Na co powinien uważać masażysta u pacjenta z GERD?
 >
-> A) Nie stosować masażu w ogóle
-> B) Unikać pozycji leżącej na płasko – może nasilać refluks
-> C) Stosować wyłącznie masaż punktowy
+> A) Nie stosować masażu w ogóle\
+> B) Unikać pozycji leżącej na płasko – może nasilać refluks\
+> C) Stosować wyłącznie masaż punktowy\
 > D) Masować intensywnie okolicę nadbrzusza
 >
-> <details><summary>Odpowiedź</summary>B) Pozycja leżąca na płasko może nasilać zarzucanie treści żołądkowej – warto unieść głowę pacjenta.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Unikać pozycji leżącej na płasko – może nasilać refluks.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) GERD nie jest bezwzględnym przeciwwskazaniem do masażu – wystarczy dostosować pozycję pacjenta, unosząc głowę.\
+> C) Nie ma podstaw do ograniczania się wyłącznie do masażu punktowego u pacjentów z GERD – kluczowe jest unikanie pozycji na płasko.\
+> D) Intensywny masaż okolicy nadbrzusza może zwiększyć ciśnienie w jamie brzusznej i nasilić zarzucanie treści żołądkowej do przełyku.
+>
+> </details>
 
 ---
 

@@ -81,42 +81,78 @@ Przy **złamaniu otwartym** (widoczne przez ranę odłamki kostne) – w miejscu
 > [!question] Pytanie 1
 > Czym różni się skręcenie od zwichnięcia?
 >
-> A) Przy skręceniu kontakt powierzchni stawowych jest zachowany, przy zwichnięciu – nie
-> B) Skręcenie dotyczy kości, zwichnięcie – więzadeł
-> C) Nie ma różnicy, to synonimy
+> A) Przy skręceniu kontakt powierzchni stawowych jest zachowany, przy zwichnięciu – nie\
+> B) Skręcenie dotyczy kości, zwichnięcie – więzadeł\
+> C) Nie ma różnicy, to synonimy\
 > D) Skręcenie jest zawsze cięższe niż zwichnięcie
 >
-> <details><summary>Odpowiedź</summary>A) Przy skręceniu powierzchnie stawowe zachowują kontakt (ruch przekracza zakres fizjologiczny), przy zwichnięciu tracą kontakt.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **A) Przy skręceniu powierzchnie stawowe zachowują kontakt (ruch przekracza zakres fizjologiczny), przy zwichnięciu tracą kontakt.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> B) Jest odwrotnie – skręcenie dotyczy więzadeł i torebki stawowej, a nie kości. Zwichnięcie to przemieszczenie kości tworzących staw.\
+> C) Skręcenie i zwichnięcie to dwa różne urazy o odmiennym mechanizmie i objawach – nie są synonimami.\
+> D) To zwichnięcie jest zazwyczaj cięższe niż skręcenie, ponieważ wiąże się z utratą kontaktu powierzchni stawowych i zniesioną ruchomością.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Co charakteryzuje skręcenie III stopnia?
 >
-> A) Uszkodzenie pojedynczych włókien, brak ruchomości patologicznej
-> B) Częściowe uszkodzenie więzadeł
-> C) Całkowite przerwanie więzadła i utrata stabilności stawu
+> A) Uszkodzenie pojedynczych włókien, brak ruchomości patologicznej\
+> B) Częściowe uszkodzenie więzadeł\
+> C) Całkowite przerwanie więzadła i utrata stabilności stawu\
 > D) Wyłącznie obrzęk bez bólu
 >
-> <details><summary>Odpowiedź</summary>C) Całkowite przerwanie ciągłości więzadła i utrata stabilności stawu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Całkowite przerwanie ciągłości więzadła i utrata stabilności stawu.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Uszkodzenie pojedynczych włókien bez ruchomości patologicznej to opis skręcenia I stopnia (lekkiego), nie III.\
+> B) Częściowe uszkodzenie więzadeł odpowiada skręceniu II stopnia (umiarkowanemu).\
+> D) Skręcenie III stopnia charakteryzuje się silnym bólem i znacznym obrzękiem – nie może przebiegać „wyłącznie z obrzękiem bez bólu".
+>
+> </details>
 
 > [!question] Pytanie 3
 > Jak prawidłowo unieruchomić kończynę przy złamaniu?
 >
-> A) Wymusić naturalną pozycję kończyny
-> B) Dopasować kończynę do szyny
-> C) Unieruchomić w pozycji zastanej, dopasowując przedmiot do kończyny
+> A) Wymusić naturalną pozycję kończyny\
+> B) Dopasować kończynę do szyny\
+> C) Unieruchomić w pozycji zastanej, dopasowując przedmiot do kończyny\
 > D) Nie unieruchamiać, czekać na pogotowie
 >
-> <details><summary>Odpowiedź</summary>C) Unieruchomić w pozycji zastanej – to przedmiot dopasowujemy do uszkodzonej kończyny, nigdy odwrotnie.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Unieruchomić w pozycji zastanej – to przedmiot dopasowujemy do uszkodzonej kończyny, nigdy odwrotnie.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Wymuszanie naturalnej pozycji kończyny może spowodować wtórne obrażenia – przesunięcie odłamków kostnych, uszkodzenie naczyń lub nerwów.\
+> B) To kończyna dyktuje pozycję – dopasowujemy szynę do kończyny, a nie kończynę do szyny, co mogłoby pogorszyć uraz.\
+> D) Brak unieruchomienia grozi przemieszczeniem odłamków, nasileniem krwawienia i pogłębieniem urazu – nie czekamy biernie.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Co zrobić z widocznymi odłamkami kostnymi przy złamaniu otwartym?
 >
-> A) Delikatnie je wcisnąć
-> B) Wyjąć i oczyścić
-> C) Nie wyjmować ani nie wciskać, założyć opatrunek jak przy krwawieniu
+> A) Delikatnie je wcisnąć\
+> B) Wyjąć i oczyścić\
+> C) Nie wyjmować ani nie wciskać, założyć opatrunek jak przy krwawieniu\
 > D) Zdezynfekować i nastawić
 >
-> <details><summary>Odpowiedź</summary>C) Nie wyjmować ani wciskać – zastosować opatrunek taki sam jak w przypadku krwawienia.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Nie wyjmować ani wciskać – zastosować opatrunek taki sam jak w przypadku krwawienia.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Wciskanie odłamków kostnych grozi dodatkowym uszkodzeniem tkanek miękkich, naczyń i nerwów oraz infekcją.\
+> B) Wyjmowanie odłamków może spowodować masywne krwawienie i dalsze uszkodzenie tkanek – to czynność zarezerwowana dla chirurga.\
+> D) Nastawianie złamań otwartych w warunkach pozaszpitalnych jest niedopuszczalne – grozi zakażeniem i pogłębieniem urazu.
+>
+> </details>
 
 ---
 

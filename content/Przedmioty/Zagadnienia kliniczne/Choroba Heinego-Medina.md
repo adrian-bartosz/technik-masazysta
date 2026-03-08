@@ -104,42 +104,78 @@
 > [!question] Pytanie 1
 > Jaki typ porażeń jest charakterystyczny dla postaci porażennej choroby Heinego-Medina?
 >
-> A) Porażenia spastyczne, symetryczne
-> B) Porażenia wiotkie, asymetryczne
-> C) Porażenia spastyczne, asymetryczne
+> A) Porażenia spastyczne, symetryczne\
+> B) Porażenia wiotkie, asymetryczne\
+> C) Porażenia spastyczne, asymetryczne\
 > D) Porażenia wiotkie, symetryczne
 >
-> <details><summary>Odpowiedź</summary>B) Porażenia wiotkie, asymetryczne — poliovirus uszkadza neurony ruchowe rogów przednich rdzenia kręgowego (dolny neuron ruchowy), co prowadzi do porażeń wiotkich. Asymetryczny rozkład jest cechą charakterystyczną odróżniającą polio od innych chorób neurologicznych.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Porażenia wiotkie, asymetryczne.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Porażenia spastyczne dotyczą uszkodzenia górnego neuronu ruchowego, a nie dolnego – polio uszkadza neurony rogów przednich rdzenia (dolny neuron), więc porażenia są wiotkie, nie spastyczne. Rozkład jest asymetryczny, nie symetryczny.\
+> C) Porażenia w polio są wiotkie, nie spastyczne – spastyczność wskazuje na uszkodzenie górnego neuronu ruchowego, co nie występuje w tej chorobie.\
+> D) Rozkład porażeń w polio jest asymetryczny, nie symetryczny – asymetria jest cechą charakterystyczną odróżniającą polio od innych chorób neurologicznych.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Która postać porażennej choroby Heinego-Medina jest najgroźniejsza dla życia pacjenta?
 >
-> A) Postać rdzeniowa
-> B) Postać abortatywna
-> C) Postać opuszkowa
+> A) Postać rdzeniowa\
+> B) Postać abortatywna\
+> C) Postać opuszkowa\
 > D) Postać nieparalityczna
 >
-> <details><summary>Odpowiedź</summary>C) Postać opuszkowa (bulbar) — zajmuje pień mózgu, co prowadzi do porażenia mięśni oddechowych, gardła i krtani. Może powodować niewydolność oddechową zagrażającą życiu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Postać opuszkowa.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Postać rdzeniowa powoduje porażenia mięśni kończyn, ale nie zagraża bezpośrednio życiu tak jak postać opuszkowa, która zajmuje pień mózgu i mięśnie oddechowe.\
+> B) Postać abortatywna przebiega łagodnie z objawami grypopodobnymi i ustępuje samoistnie – nie jest postacią porażenną.\
+> D) Postać nieparalityczna przebiega jako zapalenie opon mózgowo-rdzeniowych bez porażeń i rokuje pomyślnie.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Na co powinien szczególnie zwracać uwagę technik masażysta podczas pracy z pacjentem z zespołem post-polio?
 >
-> A) Na stosowanie wyłącznie technik głębokiego masażu
-> B) Na unikanie przeciążenia i respektowanie zmęczenia pacjenta
-> C) Na wykonywanie intensywnych ćwiczeń oporowych
+> A) Na stosowanie wyłącznie technik głębokiego masażu\
+> B) Na unikanie przeciążenia i respektowanie zmęczenia pacjenta\
+> C) Na wykonywanie intensywnych ćwiczeń oporowych\
 > D) Na ograniczenie zabiegów wyłącznie do kończyn górnych
 >
-> <details><summary>Odpowiedź</summary>B) Unikanie przeciążenia i respektowanie zmęczenia pacjenta — w zespole post-polio nadmierny wysiłek nasila osłabienie mięśni i zmęczenie. Sesje masażu powinny być dostosowane do aktualnej tolerancji pacjenta.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Unikanie przeciążenia i respektowanie zmęczenia pacjenta.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Techniki głębokiego masażu mogą nadmiernie obciążać osłabione mięśnie – sesje powinny być krótsze i dostosowane do tolerancji pacjenta.\
+> C) Intensywne ćwiczenia oporowe są przeciwwskazane, ponieważ nadmierny wysiłek nasila osłabienie mięśni i zmęczenie w zespole post-polio.\
+> D) Nie ma podstaw do ograniczania zabiegów wyłącznie do kończyn górnych – porażenia dotyczą głównie kończyn dolnych, a masaż powinien obejmować obszary wymagające terapii.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Jaka jest główna droga zakażenia poliovirusem?
 >
-> A) Drogą powietrzno-kropelkową
-> B) Przez kontakt z krwią osoby zakażonej
-> C) Drogą fekalno-oralną
+> A) Drogą powietrzno-kropelkową\
+> B) Przez kontakt z krwią osoby zakażonej\
+> C) Drogą fekalno-oralną\
 > D) Przez ukąszenie owadów
 >
-> <details><summary>Odpowiedź</summary>C) Drogą fekalno-oralną — wirus polio przenosi się głównie przez wodę i żywność zanieczyszczoną kałem osoby zakażonej. Jest to typowa droga transmisji dla enterowirusów.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Drogą fekalno-oralną.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Droga kropelkowa jest jedynie rzadką, drugorzędną drogą transmisji poliovirusa – główną drogą jest fekalno-oralna przez zanieczyszczoną wodę i żywność.\
+> B) Poliovirus nie przenosi się przez kontakt z krwią – jest enterowirusem szerzącym się drogą pokarmową.\
+> D) Poliovirus nie jest przenoszony przez owady – w odróżnieniu od np. wirusa Zika czy malarii.
+>
+> </details>
 
 ---
 

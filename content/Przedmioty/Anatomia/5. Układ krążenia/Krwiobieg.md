@@ -91,32 +91,59 @@ flowchart TD
 > [!question] Pytanie 1
 > Skąd rozpoczyna się krwiobieg mały, a skąd duży?
 >
-> A) Oba zaczynają się w lewej komorze
-> B) Mały z prawej komory, duży z lewej komory
-> C) Mały z lewego przedsionka, duży z prawego przedsionka
+> A) Oba zaczynają się w lewej komorze\
+> B) Mały z prawej komory, duży z lewej komory\
+> C) Mały z lewego przedsionka, duży z prawego przedsionka\
 > D) Mały z lewej komory, duży z prawej komory
 >
-> <details><summary>Odpowiedź</summary>B) Krwiobieg mały zaczyna się w prawej komorze (do płuc), duży w lewej komorze (przez aortę do całego ciała).</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Krwiobieg mały zaczyna się w prawej komorze (do płuc), duży w lewej komorze (przez aortę do całego ciała).**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Oba obiegi NIE zaczynają się w lewej komorze – mały startuje z prawej komory.\
+> C) Przedsionki nie rozpoczynają obiegów – odbierają krew, a komory ją pompują.\
+> D) Jest odwrotnie – mały z prawej, duży z lewej komory.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Co jest wyjątkowe w tętnicach płucnych?
 >
-> A) Są najgrubszymi tętnicami w organizmie
-> B) Prowadzą krew natlenowaną
-> C) Prowadzą krew odtlenowaną (wbrew nazwie "tętnica")
+> A) Są najgrubszymi tętnicami w organizmie\
+> B) Prowadzą krew natlenowaną\
+> C) Prowadzą krew odtlenowaną (wbrew nazwie "tętnica")\
 > D) Łączą się bezpośrednio z aortą
 >
-> <details><summary>Odpowiedź</summary>C) Tętnice płucne prowadzą krew odtlenowaną – to wyjątek od reguły, że tętnice niosą krew natlenowaną.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Tętnice płucne prowadzą krew odtlenowaną – to wyjątek od reguły, że tętnice niosą krew natlenowaną.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Najgrubszą tętnicą jest aorta, nie tętnice płucne.\
+> B) Tętnice płucne prowadzą krew odtlenowaną – właśnie to jest wyjątkiem.\
+> D) Tętnice płucne odchodzą od pnia płucnego, nie od aorty – to osobne naczynia.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Gdzie kończy się krwiobieg duży?
 >
-> A) W lewym przedsionku serca
-> B) W prawym przedsionku serca przez żyły główne
-> C) W pniu płucnym
+> A) W lewym przedsionku serca\
+> B) W prawym przedsionku serca przez żyły główne\
+> C) W pniu płucnym\
 > D) W lewej komorze serca
 >
-> <details><summary>Odpowiedź</summary>B) W prawym przedsionku serca – odtlenowana krew wpływa przez żyłę główną górną i dolną.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) W prawym przedsionku serca – odtlenowana krew wpływa przez żyłę główną górną i dolną.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) W lewym przedsionku kończy się krwiobieg mały (krew natlenowana wraca z płuc).\
+> C) Pień płucny to początek krwiobiegu małego, nie koniec dużego.\
+> D) Lewa komora to początek krwiobiegu dużego, nie jego koniec.
+>
+> </details>
 
 ---
 

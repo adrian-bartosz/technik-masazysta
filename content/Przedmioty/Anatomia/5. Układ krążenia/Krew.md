@@ -55,32 +55,59 @@ Dwie główne grupy w układzie Rh: **Rh dodatni (Rh+)** i **Rh ujemny (Rh-)**.
 > [!question] Pytanie 1
 > Z czego składa się krew?
 >
-> A) W 100% z osocza
-> B) Z osocza (~55%) oraz elementów morfotycznych (~45%): erytrocytów, leukocytów i trombocytów
-> C) Z samych erytrocytów i leukocytów
+> A) W 100% z osocza\
+> B) Z osocza (~55%) oraz elementów morfotycznych (~45%): erytrocytów, leukocytów i trombocytów\
+> C) Z samych erytrocytów i leukocytów\
 > D) Z wody (~91%) i białek (~9%)
 >
-> <details><summary>Odpowiedź</summary>B) Osocze stanowi ~55% objętości, elementy morfotyczne (erytrocyty, leukocyty, trombocyty) ~45%.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Osocze stanowi ~55% objętości, elementy morfotyczne (erytrocyty, leukocyty, trombocyty) ~45%.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Krew nie składa się w 100% z osocza – prawie połowę stanowią elementy morfotyczne.\
+> C) Brakuje trombocytów (płytek krwi) – są trzy rodzaje elementów morfotycznych, nie dwa.\
+> D) Woda i białka to składniki osocza, nie całej krwi – pominięto elementy morfotyczne.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Ile typowych kombinacji grup krwi wyróżniamy?
 >
-> A) 4 (A, B, AB, 0)
-> B) 6
-> C) 8 (układ ABO x układ Rh)
+> A) 4 (A, B, AB, 0)\
+> B) 6\
+> C) 8 (układ ABO x układ Rh)\
 > D) 12
 >
-> <details><summary>Odpowiedź</summary>C) 8 kombinacji – 4 grupy ABO (A, B, AB, 0) razy 2 warianty Rh (+ lub -).</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) 8 kombinacji – 4 grupy ABO (A, B, AB, 0) razy 2 warianty Rh (+ lub -).**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) 4 to tylko grupy w układzie ABO – nie uwzględnia czynnika Rh (+ lub -).\
+> B) 6 nie odpowiada żadnej poprawnej kombinacji układów ABO i Rh.\
+> D) 12 to za dużo – 4 grupy × 2 warianty Rh = 8, nie 12.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Co stanowi główny składnik osocza?
 >
-> A) Białka (~91%)
-> B) Woda (~91–92%)
-> C) Erytrocyty (~91%)
+> A) Białka (~91%)\
+> B) Woda (~91–92%)\
+> C) Erytrocyty (~91%)\
 > D) Elektrolity (~91%)
 >
-> <details><summary>Odpowiedź</summary>B) Woda stanowi ~91–92% osocza.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Woda stanowi ~91–92% osocza.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Białka stanowią tylko kilka procent osocza, nie ~91%.\
+> C) Erytrocyty to elementy morfotyczne krwi, a nie składnik osocza.\
+> D) Elektrolity stanowią niewielki procent osocza, nie ~91%.
+>
+> </details>
 
 ---
 

@@ -75,42 +75,78 @@ Masażysta w początkowej fazie SM może wzmocnić siłę mięśni, najlepiej iz
 > [!question] Pytanie 1
 > Co atakuje stwardnienie rozsiane?
 >
-> A) Kości i stawy
-> B) Mielinę – osłonki włókien nerwowych
-> C) Mięśnie szkieletowe
+> A) Kości i stawy\
+> B) Mielinę – osłonki włókien nerwowych\
+> C) Mięśnie szkieletowe\
 > D) Tkankę tłuszczową
 >
-> <details><summary>Odpowiedź</summary>B) Mielinę – osłonki włókien nerwowych. Ich zniszczenie uniemożliwia prawidłowe przewodzenie sygnałów z OUN.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Mielinę – osłonki włókien nerwowych.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) SM nie atakuje kości ani stawów – jest chorobą neurologiczną polegającą na niszczeniu osłonek mielinowych, a nie układu kostno-stawowego.\
+> C) SM nie uszkadza bezpośrednio mięśni szkieletowych – problemy mięśniowe (spastyczność, osłabienie) są wtórne do zaburzeń przewodzenia nerwowego.\
+> D) Tkanka tłuszczowa nie jest celem SM – choroba dotyczy mieliny w ośrodkowym układzie nerwowym.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Która postać SM jest najczęstsza?
 >
-> A) Pierwotnie postępująca
-> B) Wtórnie postępująca
-> C) Rzutowo-remisyjna
+> A) Pierwotnie postępująca\
+> B) Wtórnie postępująca\
+> C) Rzutowo-remisyjna\
 > D) Pierwotnie postępująca z rzutami
 >
-> <details><summary>Odpowiedź</summary>C) Rzutowo-remisyjna – przebiega z epizodami rzutów i okresami remisji.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Rzutowo-remisyjna.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Postać pierwotnie postępująca jest rzadsza – charakteryzuje się stałym nasilaniem objawów od początku, bez okresów remisji.\
+> B) Postać wtórnie postępująca rozwija się u pacjentów po wcześniejszym okresie rzutowo-remisyjnym, jest więc etapem ewolucji choroby, nie najczęstszą postacią wyjściową.\
+> D) Postać pierwotnie postępująca z rzutami jest najrzadsza – łączy stały postęp choroby z epizodami rzutowymi.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Jaki rodzaj masażu stosujemy u pacjentów z SM?
 >
-> A) Masaż sportowy i drenaż limfatyczny
-> B) Masaż klasyczny lub segmentarny
-> C) Wyłącznie masaż punktowy
+> A) Masaż sportowy i drenaż limfatyczny\
+> B) Masaż klasyczny lub segmentarny\
+> C) Wyłącznie masaż punktowy\
 > D) Masaż nie jest wskazany w SM
 >
-> <details><summary>Odpowiedź</summary>B) Masaż klasyczny lub segmentarny. W początkowej fazie wzmacniamy mięśnie izometrycznie.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Masaż klasyczny lub segmentarny.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Masaż sportowy jest zbyt intensywny dla pacjentów z SM, a drenaż limfatyczny nie jest wskazany jako podstawowa technika w tej chorobie.\
+> C) Ograniczanie się wyłącznie do masażu punktowego nie jest uzasadnione – u większości pacjentów z SM stosuje się masaż klasyczny lub segmentarny.\
+> D) Masaż jest wskazany w początkowej fazie SM – pomaga wzmacniać mięśnie i łagodzić spastyczność.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Co powinien zrobić masażysta w późniejszych fazach SM?
 >
-> A) Intensywnie ćwiczyć z pacjentem
-> B) Stosować masaż głęboki
-> C) Nie ruszać takiej osoby
+> A) Intensywnie ćwiczyć z pacjentem\
+> B) Stosować masaż głęboki\
+> C) Nie ruszać takiej osoby\
 > D) Stosować wyłącznie hydroterapię
 >
-> <details><summary>Odpowiedź</summary>C) W późniejszych fazach choroby nie ruszamy takiej osoby.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Nie ruszać takiej osoby.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Intensywne ćwiczenia są przeciwwskazane w późniejszych fazach SM – mogą pogorszyć stan pacjenta.\
+> B) Masaż głęboki jest zbyt agresywną techniką dla pacjenta w zaawansowanej fazie SM, gdzie zasada brzmi: nie ruszamy takiej osoby.\
+> D) Hydroterapia nie jest domeną masażysty, a w późniejszych fazach SM wszelkie interwencje ruchowe powinny być minimalne.
+>
+> </details>
 
 ---
 

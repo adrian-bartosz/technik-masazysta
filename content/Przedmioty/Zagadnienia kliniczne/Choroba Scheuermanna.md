@@ -38,42 +38,78 @@ Gdy choroba rozwija się w odcinku piersiowym:
 > [!question] Pytanie 1
 > Czym jest choroba Scheuermanna?
 >
-> A) Zapaleniem stawów kręgosłupa
-> B) Jałową martwicą kręgosłupa z nadmierną kifozą
-> C) Złamaniem kompresyjnym kręgosłupa
+> A) Zapaleniem stawów kręgosłupa\
+> B) Jałową martwicą kręgosłupa z nadmierną kifozą\
+> C) Złamaniem kompresyjnym kręgosłupa\
 > D) Skoliozą młodzieńczą
 >
-> <details><summary>Odpowiedź</summary>B) Jałowa martwica kręgosłupa z nadmierną kifozą – choroba polega na powolnym wygięciu kręgosłupa ku tyłowi, najczęściej w odcinku piersiowo-lędźwiowym.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Jałową martwicą kręgosłupa z nadmierną kifozą.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Choroba Scheuermanna nie jest zapaleniem stawów – jest jałową martwicą trzonów kręgów prowadzącą do nadmiernego wygięcia kręgosłupa ku tyłowi.\
+> C) Złamanie kompresyjne to ostra patologia pourazowa, a choroba Scheuermanna jest procesem powolnym, rozwijającym się w okresie wzrostu.\
+> D) Skolioza to skrzywienie boczne kręgosłupa, natomiast choroba Scheuermanna dotyczy wygięcia ku tyłowi (kifoza).
+>
+> </details>
 
 > [!question] Pytanie 2
 > W jakim wieku najczęściej rozwija się choroba Scheuermanna?
 >
-> A) 3–6 lat
-> B) 6–9 lat
-> C) 12–16 lat
+> A) 3–6 lat\
+> B) 6–9 lat\
+> C) 12–16 lat\
 > D) 20–30 lat
 >
-> <details><summary>Odpowiedź</summary>C) 12–16 lat – choroba dotyczy najczęściej dzieci i młodzieży w tym przedziale wiekowym, choć niekiedy pojawia się już u 9-latków.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) 12–16 lat.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Wiek 3–6 lat jest zbyt wczesny – choroba rozwija się w okresie intensywnego wzrostu kręgosłupa u starszych dzieci i młodzieży.\
+> B) Choć niekiedy choroba pojawia się już u 9-latków, typowy przedział to 12–16 lat, nie 6–9 lat.\
+> D) W wieku 20–30 lat wzrost kręgosłupa jest zakończony – choroba Scheuermanna jest schorzeniem okresu dojrzewania.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Który z poniższych objawów jest charakterystyczny dla choroby Scheuermanna w odcinku piersiowym?
 >
-> A) Skrzywienie boczne kręgosłupa
-> B) Plecy okrągłe z pochyleniem barków do przodu
-> C) Ograniczenie ruchomości w odcinku szyjnym
+> A) Skrzywienie boczne kręgosłupa\
+> B) Plecy okrągłe z pochyleniem barków do przodu\
+> C) Ograniczenie ruchomości w odcinku szyjnym\
 > D) Zanik mięśni kończyn dolnych
 >
-> <details><summary>Odpowiedź</summary>B) Plecy okrągłe z pochyleniem barków do przodu – nadmierna kifoza piersiowa jest głównym objawem, a w zaawansowanym stadium może prowadzić do garbu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Plecy okrągłe z pochyleniem barków do przodu.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Skrzywienie boczne to skolioza – choroba Scheuermanna dotyczy nadmiernej kifozy, czyli wygięcia ku tyłowi w odcinku piersiowym.\
+> C) Ograniczenie ruchomości odcinka szyjnego nie jest objawem tej choroby – zmiany dotyczą odcinka piersiowo-lędźwiowego.\
+> D) Zanik mięśni kończyn dolnych nie występuje w chorobie Scheuermanna – jest to choroba kręgosłupa, nie nerwów obwodowych czy mięśni kończyn.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Co jest jedną z przyczyn choroby Scheuermanna?
 >
-> A) Nadmierna aktywność fizyczna w wieku dorosłym
-> B) Niedobór witaminy C
-> C) Mikrourazy trzonów kręgów na skutek skoków i podskoków
+> A) Nadmierna aktywność fizyczna w wieku dorosłym\
+> B) Niedobór witaminy C\
+> C) Mikrourazy trzonów kręgów na skutek skoków i podskoków\
 > D) Infekcje bakteryjne kręgosłupa
 >
-> <details><summary>Odpowiedź</summary>C) Mikrourazy trzonów kręgów – powstają np. na skutek skoków i podskoków u dziecka podczas zabawy, co prowadzi do uszkodzenia trzonów kręgów.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Mikrourazy trzonów kręgów na skutek skoków i podskoków.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Choroba dotyczy dzieci i młodzieży w okresie wzrostu, nie dorosłych – przyczynami są m.in. mikrourazy, przeciążenia i zaburzenia hormonalne u młodych osób.\
+> B) Niedobór witaminy C prowadzi do szkorbutu, nie do jałowej martwicy trzonów kręgów – nie jest wymieniany wśród przyczyn choroby Scheuermanna.\
+> D) Infekcje bakteryjne kręgosłupa to osobna patologia (spondylodiscitis) – choroba Scheuermanna ma charakter jałowy (nieinfekcyjny).
+>
+> </details>
 
 ---
 

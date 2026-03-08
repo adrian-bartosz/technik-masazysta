@@ -80,42 +80,78 @@ W trakcie długiego procesu tworzenia się i kształtowania blizna przechodzi pr
 > [!question] Pytanie 1
 > Jaki rodzaj rany powstaje przy działaniu ostrego przedmiotu ustawionego skośnie do powierzchni ciała?
 >
-> A) Rana cięta
-> B) Rana płatowa
-> C) Rana rąbana
+> A) Rana cięta\
+> B) Rana płatowa\
+> C) Rana rąbana\
 > D) Rana kłuta
 >
-> <details><summary>Odpowiedź</summary>B) Rana płatowa – powstaje gdy czynnik działa skośnie/stycznie, tworząc oderwany fragment skóry.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Rana płatowa – powstaje gdy czynnik działa skośnie/stycznie, tworząc oderwany fragment skóry.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Rana cięta – powstaje przy działaniu ostrego przedmiotu równolegle do powierzchni skóry (np. nóż, szkło), a nie skośnie.\
+> C) Rana rąbana – jest skutkiem urazu ciężkim i ostrym przedmiotem (tasak, siekiera), nie powstaje przy skośnym ustawieniu czynnika.\
+> D) Rana kłuta – powstaje przy wbiciu wąskiego, ostrego przedmiotu (sztylet, gwóźdź) w głąb tkanek, a nie przy działaniu skośnym.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Jak długo trwają przemiany barwne blizny?
 >
-> A) 2-4 tygodnie
-> B) 1-3 miesiące
-> C) 6 miesięcy do 1,5 roku
+> A) 2-4 tygodnie\
+> B) 1-3 miesiące\
+> C) 6 miesięcy do 1,5 roku\
 > D) 2-3 lata
 >
-> <details><summary>Odpowiedź</summary>C) Od 6 miesięcy do 1,5 roku – blizna przechodzi od czerwonej, przez różową, aż do perłowej.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Od 6 miesięcy do 1,5 roku – blizna przechodzi od czerwonej, przez różową, aż do perłowej.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) 2–4 tygodnie – to zbyt krótki okres; w tym czasie blizna jest dopiero we wczesnej fazie gojenia i wciąż czerwona.\
+> B) 1–3 miesiące – to za mało; po 3 miesiącach blizna jest jeszcze niedojrzała i nie zakończyła przemian barwnych.\
+> D) 2–3 lata – to okres zdecydowanie za długi; pełne przemiany barwne kończą się najdalej po ok. 1,5 roku.
+>
+> </details>
 
 > [!question] Pytanie 3
 > U kogo najczęściej występują bliznowce?
 >
-> A) U osób starszych o jasnej karnacji
-> B) U młodych ludzi o ciemnej karnacji
-> C) U dzieci poniżej 5. roku życia
+> A) U osób starszych o jasnej karnacji\
+> B) U młodych ludzi o ciemnej karnacji\
+> C) U dzieci poniżej 5. roku życia\
 > D) U osób z niedoborem kolagenu
 >
-> <details><summary>Odpowiedź</summary>B) U młodych ludzi o ciemnej karnacji – przyczyną jest skłonność do nadmiernej produkcji kolagenu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) U młodych ludzi o ciemnej karnacji – przyczyną jest skłonność do nadmiernej produkcji kolagenu.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) U osób starszych o jasnej karnacji – bliznowce dotyczą przede wszystkim młodych osób, a ciemna karnacja jest czynnikiem predysponującym, nie jasna.\
+> C) U dzieci poniżej 5. roku życia – bliznowce nie są typowe dla małych dzieci; dotyczą głównie młodzieży i młodych dorosłych.\
+> D) U osób z niedoborem kolagenu – jest dokładnie odwrotnie; bliznowce powstają z powodu nadmiernej produkcji i gromadzenia się kolagenu.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Czym różni się blizna przerostowa od bliznowca?
 >
-> A) Blizna przerostowa nie wystaje ponad skórę
-> B) Bliznowiec rozwija się szybciej
-> C) Blizna przerostowa rozwija się w ciągu kilku tygodni po urazie, bliznowiec jest skutkiem nadmiernego gromadzenia kolagenu u predysponowanych osób
+> A) Blizna przerostowa nie wystaje ponad skórę\
+> B) Bliznowiec rozwija się szybciej\
+> C) Blizna przerostowa rozwija się w ciągu kilku tygodni po urazie, bliznowiec jest skutkiem nadmiernego gromadzenia kolagenu u predysponowanych osób\
 > D) Nie ma różnicy
 >
-> <details><summary>Odpowiedź</summary>C) Blizna przerostowa rozwija się w pierwszych tygodniach po urazie; bliznowiec to efekt predyspozycji do nadmiernej produkcji kolagenu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Blizna przerostowa rozwija się w pierwszych tygodniach po urazie; bliznowiec to efekt predyspozycji do nadmiernej produkcji kolagenu.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Blizna przerostowa nie wystaje ponad skórę – to nieprawda, blizna przerostowa jest zgrubiała i wystaje ponad poziom skóry, podobnie jak bliznowiec.\
+> B) Bliznowiec rozwija się szybciej – to blizna przerostowa rozwija się w pierwszych tygodniach po urazie, natomiast bliznowiec jest wynikiem przewlekłej, nadmiernej produkcji kolagenu u osób predysponowanych.\
+> D) Nie ma różnicy – różnica istnieje: blizna przerostowa jest reakcją na uraz i nie wykracza poza granice rany, a bliznowiec może wyraźnie wykraczać poza obręb pierwotnej rany.
+>
+> </details>
 
 ---
 

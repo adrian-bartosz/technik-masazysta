@@ -44,42 +44,78 @@
 > [!question] Pytanie 1
 > Czym różni się otyłość prosta od wtórnej?
 >
-> A) Otyłość prosta wynika z zaburzeń hormonalnych, wtórna z nadmiaru kalorii
-> B) Otyłość prosta powstaje z nadmiaru kalorii, wtórna z zaburzeń hormonalnych lub leków
-> C) Otyłość prosta dotyczy dzieci, wtórna dorosłych
+> A) Otyłość prosta wynika z zaburzeń hormonalnych, wtórna z nadmiaru kalorii\
+> B) Otyłość prosta powstaje z nadmiaru kalorii, wtórna z zaburzeń hormonalnych lub leków\
+> C) Otyłość prosta dotyczy dzieci, wtórna dorosłych\
 > D) Nie ma różnicy – to synonimy
 >
-> <details><summary>Odpowiedź</summary>B) Otyłość prosta (pierwotna) = nadmiar kalorii, wtórna = zaburzenia hormonalne, uszkodzenie OUN lub leki.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Otyłość prosta powstaje z nadmiaru kalorii, wtórna z zaburzeń hormonalnych lub leków.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Jest odwrotnie – to otyłość prosta wynika z nadmiaru kalorii, a wtórna z zaburzeń hormonalnych.\
+> C) Podział na prostą i wtórną nie zależy od wieku pacjenta, lecz od przyczyny powstania otyłości.\
+> D) Otyłość prosta i wtórna to dwa odrębne typy o różnych przyczynach – nie są synonimami.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Jak oblicza się BMI?
 >
-> A) Wzrost [cm] / masa ciała [kg]
-> B) Masa ciała [kg] / wzrost [m]²
-> C) Masa ciała [kg] x wzrost [m]
+> A) Wzrost [cm] / masa ciała [kg]\
+> B) Masa ciała [kg] / wzrost [m]²\
+> C) Masa ciała [kg] x wzrost [m]\
 > D) Obwód talii [cm] / obwód bioder [cm]
 >
-> <details><summary>Odpowiedź</summary>B) BMI = masa ciała w kilogramach podzielona przez wzrost w metrach do kwadratu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Masa ciała [kg] / wzrost [m]².**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Wzór jest odwrócony i używa centymetrów zamiast metrów – BMI to masa dzielona przez wzrost, nie odwrotnie.\
+> C) Mnożenie masy przez wzrost dałoby bezsensowną wartość, nie wskaźnik proporcji ciała.\
+> D) Obwód talii dzielony przez obwód bioder to wskaźnik WHR (waist-to-hip ratio), nie BMI.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Jaki hormon odpowiada za regulację apetytu?
 >
-> A) Insulina
-> B) Kortyzol
-> C) Leptyna
+> A) Insulina\
+> B) Kortyzol\
+> C) Leptyna\
 > D) Adrenalina
 >
-> <details><summary>Odpowiedź</summary>C) Leptyna – hormon mający kluczowe znaczenie w regulacji apetytu.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Leptyna.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Insulina reguluje poziom glukozy we krwi – jej główną rolą nie jest kontrola apetytu.\
+> B) Kortyzol to hormon stresu wydzielany przez nadnercza – wpływa na metabolizm, ale nie jest kluczowym regulatorem apetytu.\
+> D) Adrenalina (epinefryna) to hormon reakcji walki lub ucieczki – mobilizuje organizm w sytuacjach stresowych, nie reguluje apetytu.
+>
+> </details>
 
 > [!question] Pytanie 4
 > Które z poniższych NIE jest powikłaniem otyłości?
 >
-> A) Bezdech senny
-> B) Nadciśnienie tętnicze
-> C) Osteoporoza
+> A) Bezdech senny\
+> B) Nadciśnienie tętnicze\
+> C) Osteoporoza\
 > D) Cukrzyca
 >
-> <details><summary>Odpowiedź</summary>C) Osteoporoza nie jest typowym powikłaniem otyłości (wręcz przeciwnie – nadwaga może chronić przed utratą masy kostnej).</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Osteoporoza.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Bezdech senny jest typowym powikłaniem otyłości – nadmiar tkanki tłuszczowej w obrębie szyi i gardła utrudnia oddychanie podczas snu.\
+> B) Nadciśnienie tętnicze jest jednym z najczęstszych powikłań otyłości w układzie sercowo-naczyniowym.\
+> D) Cukrzyca (szczególnie typu 2) jest klasycznym powikłaniem otyłości, związanym z insulinoopornością.
+>
+> </details>
 
 ---
 

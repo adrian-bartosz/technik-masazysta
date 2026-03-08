@@ -63,32 +63,59 @@ Jest to struktura o dużej wytrzymałości mechanicznej, łącząca mięśnie br
 > [!question] Pytanie 1
 > Na jakie dwie warstwy dzieli się powięź powierzchowna poniżej pępka?
 >
-> A) Powięź głęboka i powięź poprzeczna
-> B) Powięź Campera i powięź Scarpy
-> C) Powięź mięśniowa i powięź piersiowo-lędźwiowa
+> A) Powięź głęboka i powięź poprzeczna\
+> B) Powięź Campera i powięź Scarpy\
+> C) Powięź mięśniowa i powięź piersiowo-lędźwiowa\
 > D) Fascia lata i fascia transversalis
 >
-> <details><summary>Odpowiedź</summary>B) Powięź Campera (tłuszczowa, powierzchowna) i powięź Scarpy (błoniasta, głębsza).</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Powięź Campera (tłuszczowa, powierzchowna) i powięź Scarpy (błoniasta, głębsza).**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Powięź głęboka i powięź poprzeczna to struktury leżące znacznie głębiej – nie są częścią powięzi powierzchownej.\
+> C) Powięź mięśniowa należy do powięzi głębokiej, a powięź piersiowo-lędźwiowa znajduje się w tylnej części tułowia – żadna z nich nie jest warstwą powięzi powierzchownej.\
+> D) Fascia lata to powięź szeroka uda, a fascia transversalis to powięź poprzeczna brzucha – nie są one warstwami powięzi powierzchownej.
+>
+> </details>
 
 > [!question] Pytanie 2
 > Co oddziela powięź poprzeczna (fascia transversalis)?
 >
-> A) Skórę od mięśni
-> B) Mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej
-> C) Mięsień skośny zewnętrzny od wewnętrznego
+> A) Skórę od mięśni\
+> B) Mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej\
+> C) Mięsień skośny zewnętrzny od wewnętrznego\
 > D) Powięź Campera od powięzi Scarpy
 >
-> <details><summary>Odpowiedź</summary>B) Oddziela mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej.</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **B) Oddziela mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej.**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Skórę od mięśni oddziela powięź powierzchowna (tkanka podskórna), a nie powięź poprzeczna.\
+> C) Mięsień skośny zewnętrzny od wewnętrznego oddzielają blaszki powięziowe mięśni (powięź głęboka), nie fascia transversalis.\
+> D) Powięź Campera i powięź Scarpy to dwie warstwy powięzi powierzchownej – ich podział nie jest funkcją powięzi poprzecznej.
+>
+> </details>
 
 > [!question] Pytanie 3
 > Z jaką powięzią łączy się powięź Scarpy poniżej więzadła pachwinowego?
 >
-> A) Powięzią piersiowo-lędźwiową
-> B) Powięzią poprzeczną
-> C) Powięzią szeroką uda (fascia lata)
+> A) Powięzią piersiowo-lędźwiową\
+> B) Powięzią poprzeczną\
+> C) Powięzią szeroką uda (fascia lata)\
 > D) Powięzią Campera
 >
-> <details><summary>Odpowiedź</summary>C) Z powięzią szeroką uda (fascia lata).</details>
+> <details><summary>Odpowiedź</summary>
+>
+> **C) Z powięzią szeroką uda (fascia lata).**
+>
+> Dlaczego inne odpowiedzi są błędne:\
+> A) Powięź piersiowo-lędźwiowa łączy się z powięziami mięśni brzucha (poprzecznego i skośnego wewnętrznego), a nie bezpośrednio z powięzią Scarpy.\
+> B) Powięź poprzeczna (fascia transversalis) leży głębiej i oddziela mięśnie od jamy otrzewnej – nie łączy się z powięzią Scarpy poniżej więzadła pachwinowego.\
+> D) Powięź Campera to warstwa tej samej powięzi powierzchownej – nie jest osobną strukturą, z którą Scarpa się „łączy" poniżej więzadła pachwinowego.
+>
+> </details>
 
 ---
 
