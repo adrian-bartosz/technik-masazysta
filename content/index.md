@@ -7,3 +7,21 @@ title: Rozkład jazdy
 
 Konczymy klasyka, zaczynamy segmentarny
 
+## zagadnienia kliniczne zaliczenie 15 marca
+henine medin (?)
+schumarran (?)
+sm
+rany blizny
+skrecenie zwichniecia zlamania
+kregozmyk
+gerd 
+otylosc
+
+
+## anatomia
+budowa powiezi brzucha
+budowa wiezadel powlok brzusznych
+uklad oddechowy
+uklad pokarmowy
+i to co dzisiaj czyli uklad krwionosny
+
