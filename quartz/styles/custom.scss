@@ -1,3 +1,214 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================
+// Quiz callouts – wyróżnione pytania egzaminowe
+// ============================================
+.callout[data-callout="question"] {
+  --callout-color: 37, 99, 235;
+  background: rgba(37, 99, 235, 0.04);
+  border-left: 4px solid rgb(37, 99, 235);
+  border-radius: 8px;
+  margin-bottom: 1rem;
+
+  .callout-title {
+    font-weight: 700;
+    color: rgb(37, 99, 235);
+  }
+
+  // odpowiedzi ukryte
+  details {
+    margin-top: 0.75rem;
+    padding: 0.6rem 0.8rem;
+    background: rgba(5, 150, 105, 0.06);
+    border-left: 3px solid rgb(5, 150, 105);
+    border-radius: 6px;
+
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: rgb(5, 150, 105);
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// ============================================
+// Scenariusz kliniczny callout
+// ============================================
+.callout[data-callout="example"] {
+  --callout-color: 217, 119, 6;
+  background: rgba(217, 119, 6, 0.04);
+  border-left: 4px solid rgb(217, 119, 6);
+  border-radius: 8px;
+
+  .callout-title {
+    font-weight: 700;
+    color: rgb(217, 119, 6);
+  }
+
+  details {
+    margin-top: 0.75rem;
+    padding: 0.6rem 0.8rem;
+    background: rgba(5, 150, 105, 0.06);
+    border-left: 3px solid rgb(5, 150, 105);
+    border-radius: 6px;
+
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: rgb(5, 150, 105);
+    }
+  }
+}
+
+// ============================================
+// Quiz link – wyróżniony przycisk na index
+// ============================================
+article p > strong > a[href*="Quiz"] {
+  display: inline-block;
+  padding: 0.5rem 1.2rem;
+  background: var(--secondary);
+  color: var(--light) !important;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// ============================================
+// Dark mode – poprawki calloutów
+// ============================================
+[saved-theme="dark"] {
+  .callout[data-callout="question"] {
+    --callout-color: 96, 165, 250;
+    background: rgba(96, 165, 250, 0.08);
+    border-left-color: rgb(96, 165, 250);
+
+    .callout-title {
+      color: rgb(96, 165, 250);
+    }
+
+    details {
+      background: rgba(52, 211, 153, 0.08);
+      border-left-color: rgb(52, 211, 153);
+
+      summary {
+        color: rgb(52, 211, 153);
+      }
+    }
+  }
+
+  .callout[data-callout="example"] {
+    --callout-color: 251, 191, 36;
+    background: rgba(251, 191, 36, 0.08);
+    border-left-color: rgb(251, 191, 36);
+
+    .callout-title {
+      color: rgb(251, 191, 36);
+    }
+
+    details {
+      background: rgba(52, 211, 153, 0.08);
+      border-left-color: rgb(52, 211, 153);
+
+      summary {
+        color: rgb(52, 211, 153);
+      }
+    }
+  }
+}
+
+// ============================================
+// Typografia – lepsze nagłówki
+// ============================================
+article {
+  h2 {
+    margin-top: 2rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--lightgray);
+  }
+}
+
+// ============================================
+// Sekcja Zapamiętaj – wyróżniona
+// ============================================
+article h2#zapamiętaj + ul,
+article h2#zapamietaj + ul {
+  background: rgba(37, 99, 235, 0.04);
+  border-left: 4px solid var(--secondary);
+  border-radius: 8px;
+  padding: 1rem 1rem 1rem 1.5rem;
+  margin-left: 0;
+}
+
+[saved-theme="dark"] {
+  article h2#zapamiętaj + ul,
+  article h2#zapamietaj + ul {
+    background: rgba(96, 165, 250, 0.08);
+  }
+}
+
+// ============================================
+// Lepsza czytelność na mobile
+// ============================================
+@media (max-width: 800px) {
+  article {
+    font-size: 1rem;
+    line-height: 1.7;
+
+    li {
+      margin-bottom: 0.3rem;
+    }
+  }
+
+  .callout {
+    padding: 0.8rem;
+  }
+}
+
+// ============================================
+// Mermaid – czytelniejsze diagramy
+// ============================================
+.mermaid {
+  margin: 1.5rem 0;
+  text-align: center;
+
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+// ============================================
+// Explorer – czyściejszy sidebar
+// ============================================
+.explorer {
+  .folder-title {
+    font-weight: 600;
+  }
+}
+
+// ============================================
+// Separator hr – subtelniejszy
+// ============================================
+article hr {
+  border: none;
+  border-top: 1px solid var(--lightgray);
+  margin: 2rem 0;
+}
+
+// ============================================
+// Lepsze listy opcji w quizie
+// ============================================
+.callout[data-callout="question"] > .callout-content > p {
+  margin-bottom: 0.25rem;
+}
