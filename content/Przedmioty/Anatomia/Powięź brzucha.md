@@ -1,0 +1,98 @@
+**Powięź brzucha** – złożona, wielowarstwowa struktura tkanki łącznej, która otacza, podtrzymuje i łączy mięśnie, naczynia krwionośne oraz narządy wewnętrzne brzucha. Działa jak elastyczne rusztowanie i siatka stabilizująca tułów.
+
+---
+
+## Budowa powięzi brzucha
+
+### 1. Powięź powierzchowna (tkanka podskórna)
+
+Warstwa znajdująca się bezpośrednio pod skórą. W obrębie przedniej ściany brzucha, poniżej pępka, dzieli się na dwie główne części:
+
+- **Powięź Campera** – warstwa tłuszczowa (powierzchowna), zewnętrzna i grubsza; zbudowana głównie z tkanki tłuszczowej
+- **Powięź Scarpy** – warstwa błoniasta (głębsza), cieńsza i bardziej zwarta; leży bezpośrednio na mięśniach ściany brzucha
+
+Uwaga: powyżej pępka powięź powierzchowna zwykle występuje jako jedna, nierozdzielona warstwa.
+
+---
+
+### 2. Powięź głęboka (powięź mięśniowa)
+
+Otacza poszczególne mięśnie ściany brzucha, zapewniając im poślizg i wsparcie strukturalne.
+
+- **Blaszki powięziowe mięśni** – pokrywają mięsień skośny zewnętrzny, skośny wewnętrzny oraz poprzeczny brzucha
+- **Powięź poprzeczna (fascia transversalis)** – mocna, kluczowa warstwa znajdująca się bezpośrednio pod mięśniem poprzecznym brzucha; oddziela go od tłuszczu przedotrzewnowego i jamy otrzewnej
+
+---
+
+### 3. Powięź piersiowo-lędźwiowa
+
+Znajduje się w tylnej części tułowia. Powięzie mięśni brzucha (szczególnie mięśnia poprzecznego oraz skośnego wewnętrznego) łączą się z powięzią piersiowo-lędźwiową, tworząc tzw. szew boczny.
+
+Jest to struktura o dużej wytrzymałości mechanicznej, łącząca mięśnie brzucha z kręgosłupem i istotna dla stabilizacji centralnej.
+
+---
+
+## Kluczowe połączenia
+
+- Powięź Scarpy poniżej więzadła pachwinowego łączy się z **powięzią szeroką uda (fascia lata)**
+- Przechodzi również w **powięź krocza (powięź Collesa)**
+
+---
+
+## Funkcje powięzi brzucha
+
+- **Strukturalna** – utrzymuje narządy wewnętrzne w odpowiednim położeniu
+- **Ochronna** – tworzy barierę mechaniczną i wspiera integralność tkanek
+- **Mechaniczna** – umożliwia swobodne przesuwanie się mięśni względem siebie (jeśli jest elastyczna i dobrze uwodniona)
+- **Stabilizacyjna** – uczestniczy w generowaniu napięcia powięziowego, wpływa na postawę ciała oraz stabilizację tułowia
+
+---
+
+## Zapamiętaj
+
+- Powięź brzucha ma 3 główne warstwy: **powierzchowna** (Campera + Scarpy), **głęboka** (mięśniowa + poprzeczna), **piersiowo-lędźwiowa**
+- **Powięź Campera** = tłuszczowa (zewnętrzna), **powięź Scarpy** = błoniasta (głębsza) – podział widoczny tylko poniżej pępka
+- **Powięź poprzeczna (fascia transversalis)** to kluczowa warstwa oddzielająca mięśnie od jamy otrzewnej
+- Powięź Scarpy łączy się z **powięzią szeroką uda** poniżej więzadła pachwinowego
+- 4 funkcje powięzi: **strukturalna, ochronna, mechaniczna, stabilizacyjna**
+
+---
+
+## Quiz
+
+> [!question] Pytanie 1
+> Na jakie dwie warstwy dzieli się powięź powierzchowna poniżej pępka?
+>
+> A) Powięź głęboka i powięź poprzeczna
+> B) Powięź Campera i powięź Scarpy
+> C) Powięź mięśniowa i powięź piersiowo-lędźwiowa
+> D) Fascia lata i fascia transversalis
+>
+> <details><summary>Odpowiedź</summary>B) Powięź Campera (tłuszczowa, powierzchowna) i powięź Scarpy (błoniasta, głębsza).</details>
+
+> [!question] Pytanie 2
+> Co oddziela powięź poprzeczna (fascia transversalis)?
+>
+> A) Skórę od mięśni
+> B) Mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej
+> C) Mięsień skośny zewnętrzny od wewnętrznego
+> D) Powięź Campera od powięzi Scarpy
+>
+> <details><summary>Odpowiedź</summary>B) Oddziela mięsień poprzeczny brzucha od tłuszczu przedotrzewnowego i jamy otrzewnej.</details>
+
+> [!question] Pytanie 3
+> Z jaką powięzią łączy się powięź Scarpy poniżej więzadła pachwinowego?
+>
+> A) Powięzią piersiowo-lędźwiową
+> B) Powięzią poprzeczną
+> C) Powięzią szeroką uda (fascia lata)
+> D) Powięzią Campera
+>
+> <details><summary>Odpowiedź</summary>C) Z powięzią szeroką uda (fascia lata).</details>
+
+---
+
+## Źródła
+
+- Bochenek A., Reicher M., *Anatomia człowieka*, PZWL
+- Netter F.H., *Atlas anatomii człowieka*, Edra Urban & Partner
